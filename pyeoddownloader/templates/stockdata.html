@@ -1,0 +1,73 @@
+<!doctype html>
+<meta http-equiv="refresh" >
+
+<head>
+<link href="static/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="static/font-awesome.min.css">
+<script src="static/angular.min.js"></script>
+<script src="static/controller.js"></script>
+
+
+
+
+</head>
+<title>dadsadada </title>
+<body  ng-app="stockangApp">
+
+    <div class="container" ng-controller="stockListCtrl">
+Sort Type {{sortType | angular}}      
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-search"></i></div>
+        {{'{{searchStock }}'}}<input type="text" class="form-control" placeholder="Search da Stock" ng-model="search.SYMBOL">
+      </div>      
+    </div>
+  
+        <div class="bs-example" data-example-id="panel-without-body-with-table">
+            <div class="panel panel-default">
+      
+
+  
+  
+    <table class="table">
+    <thead>
+    	<tr>
+<!--       <td>
+          <a href="#" ng-click="sortType = 'SYMBOL'; sortReverse = !sortReverse">
+            SYMBOL 
+            <span ng-show="sortType == 'SYMBOL' && !sortReverse" class="fa fa-caret-down"></span>
+            <span ng-show="sortType == 'SYMBOL' && sortReverse" class="fa fa-caret-up"></span>
+          </a>
+          
+        </td> -->
+      	<th ng-repeat="key in stockkeys" > 
+
+        <a href="#" ng-click="sortType =  {{'{{key}}'}}; sortReverse = !sortReverse">
+            
+            <span  ng-show="sortType ==  key && !sortReverse" class="fa fa-caret-down"></span>
+            <span ng-show="sortType == key && sortReverse" class="fa fa-caret-up"></span>
+            {{'{{key}}'}}
+          </a></th>
+<!--     		<th> 52 week High </th>
+    		<th> 52 Week High Date </th>
+    		<th> 52 Week Low </th>
+    		<th> 52 Week Low Date </th> -->
+    		
+    	</tr>
+    </thead>
+    
+    <tr ng-repeat="stock in stocks | orderBy:sortType:sortReverse | filter:search ">
+      <td ng-repeat="key in stockkeys">{{ '{{stock[key]}}' }}</td>
+      
+ 
+
+
+    </tr>
+    
+    </table>
+
+    
+  
+</div></div>
+
+</body>

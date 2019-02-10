@@ -1,0 +1,93 @@
+<!doctype html>
+<meta http-equiv="refresh" >
+
+<head>
+<!-- <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+
+
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script> -->
+  <!-- Angular Material Library -->
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.css"/>
+    <!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.9/angular.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.js"></script>
+    <script src="https://rawgit.com/krispo/angular-nvd3/v1.0.4/dist/angular-nvd3.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.3/angular-ui-router.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular-sanitize.js"></script>
+  
+  
+  <link rel="stylesheet" href="nv.d3.css">
+  <!-- Angular Material Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script>
+
+<link href="bootstrap.min.css" rel="stylesheet">
+<link href="stockapp.css" rel="stylesheet">
+<link rel="stylesheet" href="fa/css/font-awesome.min.css">
+
+<script src="controller.js"></script>
+<script src="dirPagination.js"></script>
+<link rel="styleSheet" href="ui-grid.min.css"/>
+
+<script src="ui-grid.min.js"></script>
+
+
+
+</head>
+<title>Admin </title>
+<body  ng-app="stockangApp">
+<div ng-include="'header.html'"></div>
+
+  
+
+    <div ng-controller="adminCtrl">
+
+    <div class="form-group col-xs-12" >
+     <b> <div class="col-xs-4">
+        
+        Daily Data Last Loaded On  
+        </div>
+        <div class="col-xs-4">
+        {{lastdataloaded}}
+        </div>
+        </b>
+        <div class="col-xs-4">
+        <md-button class="md-primary md-raised edgePadding" ng-click="loadData();"> load Data </md-button>
+        </div>
+        <!-- <md-button class="md-primary md-raised edgePadding" ng-click="fetchNews(nse_symbol)" >FetchNews</md-button> -->
+        <!-- <input type="text" class="form-control" placeholder="Search da year High Date" ng-model="search.YEAR_HIGH_DT"> -->
+
+      </div>
+      
+    
+    <div class="form-group col-xs-12" >
+     <b> <div class="col-xs-4">
+        
+        Momemntum Data Last Loaded On  
+        </div>
+        <div class="col-xs-4">
+        {{momentumlastdataloaded}}
+        </div>
+        </b>
+        <div class="col-xs-4">
+        <md-button class="md-primary md-raised edgePadding" ng-click="loadmomentumData();"> load momentum Data </md-button>
+        </div>
+        <!-- <md-button class="md-primary md-raised edgePadding" ng-click="fetchNews(nse_symbol)" >FetchNews</md-button> -->
+        <!-- <input type="text" class="form-control" placeholder="Search da year High Date" ng-model="search.YEAR_HIGH_DT"> -->
+
+      </div>
+      
+    </div>
+    
+</div>
+</body>
+

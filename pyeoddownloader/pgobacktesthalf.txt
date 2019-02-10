@@ -1,0 +1,365 @@
+symbol ADANIPORTS gainpct 4.34770534931 volratio 1.50316158427 buydate 2017-04-05 00:00:00 bought 342.1 solddate 2017-04-12 00:00:00 sellprice 333.8
+symbol ADANIPOWER gainpct 4.61538461538 volratio 1.36733638638 buydate 2016-01-01 00:00:00 bought 32.5 solddate 2016-01-14 00:00:00 sellprice 31.3
+symbol ADANIPOWER gainpct 0.624024960998 volratio 1.59233520041 buydate 2016-12-06 00:00:00 bought 32.05 solddate 2016-12-22 00:00:00 sellprice 30.5
+symbol ADANIPOWER gainpct 3.07917888563 volratio 1.34503475253 buydate 2017-01-11 00:00:00 bought 34.1 solddate 2017-02-15 00:00:00 sellprice 35.95
+symbol ADANIPOWER gainpct 4.60448642267 volratio 2.16773666557 buydate 2017-04-06 00:00:00 bought 42.35 solddate 2017-04-11 00:00:00 sellprice 44.35
+symbol ADANIPOWER gainpct 4.48430493274 volratio 2.10565217153 buydate 2017-07-26 00:00:00 bought 33.45 solddate 2017-08-08 00:00:00 sellprice 33.0
+symbol ADANIPOWER gainpct 0.0 volratio 1.58017631262 buydate 2017-11-28 00:00:00 bought 36.6 solddate 2018-01-01 00:00:00 sellprice 0.0
+symbol ADANITRANS gainpct -2.17983651226 volratio 3.64413993519 buydate 2015-12-29 00:00:00 bought 36.1 solddate 2016-02-26 00:00:00 sellprice 28.95
+symbol ADANITRANS gainpct 4.05194805195 volratio 2.23367455338 buydate 2017-05-16 00:00:00 bought 101.0 solddate 2017-08-11 00:00:00 sellprice 106.0
+symbol ADANITRANS gainpct 3.47672362994 volratio 1.16345244508 buydate 2017-10-09 00:00:00 bought 174.7 solddate 2017-12-01 00:00:00 sellprice 180.7
+symbol ABFRL gainpct -2.35697940503 volratio 1.66371412368 buydate 2015-11-03 00:00:00 bought 218.5 solddate 2015-11-04 00:00:00 sellprice 0.0
+symbol ABFRL gainpct -0.651465798046 volratio 20.0 buydate 2015-12-08 00:00:00 bought 214.9 solddate 2015-12-09 00:00:00 sellprice 0.0
+symbol ABFRL gainpct -0.409836065574 volratio 5.53150176287 buydate 2015-12-11 00:00:00 bought 207.4 solddate 2015-12-14 00:00:00 sellprice 0.0
+symbol ABFRL gainpct -0.179775280899 volratio 5.23449044079 buydate 2015-12-24 00:00:00 bought 222.5 solddate 2016-02-04 00:00:00 sellprice 197.0
+symbol ADVENZYMES gainpct 4.59243008679 volratio 1.88189038352 buydate 2016-10-19 00:00:00 bought 414.8 solddate 2016-11-04 00:00:00 sellprice 400.0
+symbol ADVENZYMES gainpct 3.89028325565 volratio 8.04897289286 buydate 2017-12-01 00:00:00 bought 278.9 solddate 2017-12-06 00:00:00 sellprice 276.65
+symbol AHLUCONT gainpct 4.90881458967 buydate 2017-11-06 00:00:00 bought 348.9 didnt sell today sellprice 373.5
+symbol ALKEM gainpct 3.04252027027 volratio 5.14119924596 buydate 2016-07-20 00:00:00 bought 1538.95 solddate 2016-10-28 00:00:00 sellprice 1629.95
+symbol ANDHRABANK gainpct 4.92107706592 volratio 2.27932226752 buydate 2017-02-03 00:00:00 bought 53.85 solddate 2017-03-03 00:00:00 sellprice 54.35
+symbol ANDHRABANK gainpct 4.23600605144 volratio 2.51214402238 buydate 2017-04-28 00:00:00 bought 66.1 solddate 2017-05-18 00:00:00 sellprice 67.0
+symbol ANDHRABANK gainpct 2.7397260274 volratio 2.60162800906 buydate 2017-09-18 00:00:00 bought 58.4 solddate 2017-09-27 00:00:00 sellprice 58.6
+symbol APOLLOHOSP gainpct 3.55855855856 volratio 2.10038906245 buydate 2017-11-22 00:00:00 bought 1110.0 solddate 2018-01-04 00:00:00 sellprice 1185.0
+symbol ASIANPAINT gainpct -1.58866995074 volratio 1.28304933639 buydate 2017-09-07 00:00:00 bought 1195.0 solddate 2017-09-27 00:00:00 sellprice 1173.1
+symbol ASIANPAINT gainpct -0.483732876712 volratio 20.0 buydate 2017-11-06 00:00:00 bought 1168.0 solddate 2017-11-16 00:00:00 sellprice 0.0
+symbol AVANTIFEED gainpct -0.934958766583 volratio 4.87813695659 buydate 2015-11-20 00:00:00 bought 0.0 solddate 2015-11-24 00:00:00 sellprice 0.0
+symbol AVANTIFEED gainpct 3.51312149533 volratio 2.50159377789 buydate 2017-01-10 00:00:00 bought 563.95 solddate 2017-11-17 00:00:00 sellprice 2520.0
+symbol DMART gainpct 2.80794165316 volratio 1.37686269239 buydate 2017-10-12 00:00:00 bought 1285.0 solddate 2017-11-16 00:00:00 sellprice 1103.2
+symbol BASF gainpct 3.52439119272 volratio 4.55995767655 buydate 2017-01-30 00:00:00 bought 1331.45 solddate 2017-02-09 00:00:00 sellprice 1133.05
+symbol BEML gainpct 2.01288063833 volratio 4.59522123723 buydate 2015-12-18 00:00:00 bought 1263.0 solddate 2016-01-18 00:00:00 sellprice 1155.1
+symbol BGRENERGY gainpct 3.74605678233 volratio 4.49866405114 buydate 2017-01-10 00:00:00 bought 132.0 solddate 2017-03-03 00:00:00 sellprice 131.6
+symbol BGRENERGY gainpct 2.18739797584 volratio 3.06806586976 buydate 2017-11-06 00:00:00 bought 157.4 solddate 2017-11-14 00:00:00 sellprice 130.0
+symbol BSE gainpct 1.15786934673 volratio 10.7595481116 buydate 2017-04-10 00:00:00 bought 1035.0 solddate 2017-08-10 00:00:00 sellprice 1049.2
+symbol BAJAJCORP gainpct 2.67249757046 volratio 1.28183898432 buydate 2017-04-11 00:00:00 bought 422.25 solddate 2017-05-04 00:00:00 sellprice 382.4
+symbol BAJAJELEC gainpct 2.12168949772 volratio 2.30620226446 buydate 2017-02-10 00:00:00 bought 271.0 solddate 2017-05-23 00:00:00 sellprice 314.0
+symbol BAJAJELEC gainpct 1.70974690361 buydate 2017-09-12 00:00:00 bought 379.5 didnt sell today sellprice 540.35
+symbol BAJAJFINSV gainpct 4.15938170669 volratio 1.80178547428 buydate 2016-06-29 00:00:00 bought 2320.0 solddate 2016-07-26 00:00:00 sellprice 2618.0
+symbol BAJAJFINSV gainpct 3.76731334333 volratio 1.74866961641 buydate 2017-02-02 00:00:00 bought 3490.0 solddate 2017-05-22 00:00:00 sellprice 4200.5
+symbol BAJAJFINSV gainpct 3.03611738149 volratio 2.36783626276 buydate 2017-07-19 00:00:00 bought 4595.0 solddate 2017-08-30 00:00:00 sellprice 0.0
+symbol BAJAJHLDNG gainpct -1.018221714 volratio 1.93355216466 buydate 2015-12-28 00:00:00 bought 1641.0 solddate 2016-05-06 00:00:00 sellprice 1424.65
+symbol BAJAJHLDNG gainpct 3.02457466919 volratio 1.39380502621 buydate 2017-08-28 00:00:00 bought 2834.05 solddate 2017-08-31 00:00:00 sellprice 2962.1499
+symbol BAJAJHLDNG gainpct -0.447396731613 volratio 2.05866864032 buydate 2017-11-06 00:00:00 bought 2922.2 solddate 2017-11-17 00:00:00 sellprice 2850.0
+symbol BALKRISIND gainpct 1.32383529412 volratio 1.13195005645 buydate 2016-08-31 00:00:00 bought 430.5 solddate 2016-11-16 00:00:00 sellprice 482.5
+symbol BALKRISIND gainpct 0.589204779563 volratio 1.15774401101 buydate 2017-12-13 00:00:00 bought 1230.5 solddate 2018-01-02 00:00:00 sellprice 0.0
+symbol BALLARPUR gainpct 4.43037974684 volratio 1.03474451581 buydate 2016-04-11 00:00:00 bought 16.45 solddate 2016-06-01 00:00:00 sellprice 16.2
+symbol BALLARPUR gainpct 3.44827586207 buydate 2017-12-29 00:00:00 bought 18.25 didnt sell today sellprice 18.45
+symbol BALMLAWRIE gainpct -1.9909830933 volratio 1.13577015815 buydate 2016-12-12 00:00:00 bought 283.725 solddate 2016-12-30 00:00:00 sellprice 229.25
+symbol BALMLAWRIE gainpct 3.16814159292 volratio 5.03474785573 buydate 2017-11-08 00:00:00 bought 295.5 solddate 2017-12-14 00:00:00 sellprice 252.55
+symbol BALRAMCHIN gainpct -3.71241084165 volratio 3.89934332442 buydate 2015-12-10 00:00:00 bought 0.0 solddate 2015-12-14 00:00:00 sellprice 0.0
+symbol BALRAMCHIN gainpct -5.54152542373 volratio 7.8749950525 buydate 2015-12-24 00:00:00 bought 70.0 solddate 2016-05-25 00:00:00 sellprice 105.7
+symbol BANKINDIA gainpct 2.20696419814 volratio 1.42694131342 buydate 2016-07-01 00:00:00 bought 105.25 solddate 2016-08-12 00:00:00 sellprice 102.5
+symbol BANKINDIA gainpct 2.78159340659 volratio 1.10797735748 buydate 2017-04-11 00:00:00 bought 149.65 solddate 2017-05-23 00:00:00 sellprice 155.75
+symbol BANKINDIA gainpct 3.09677419355 volratio 1.60481622024 buydate 2017-07-24 00:00:00 bought 160.2 solddate 2017-08-11 00:00:00 sellprice 145.0
+symbol BANKINDIA gainpct 3.07443365696 volratio 1.64029924822 buydate 2017-10-31 00:00:00 bought 194.7 solddate 2017-12-13 00:00:00 sellprice 177.65
+symbol BATAINDIA gainpct 2.86192178771 volratio 1.04201866948 buydate 2017-01-03 00:00:00 bought 464.85 solddate 2017-05-19 00:00:00 sellprice 553.0
+symbol BATAINDIA gainpct 1.66666666667 volratio 2.15589547218 buydate 2017-08-04 00:00:00 bought 633.0 solddate 2017-11-16 00:00:00 sellprice 740.0
+symbol BERGEPAINT gainpct 0.0701195219124 volratio 1.53956297376 buydate 2015-12-30 00:00:00 bought 191.429 solddate 2016-02-11 00:00:00 sellprice 178.571
+symbol BERGEPAINT gainpct -0.0340101522843 volratio 2.15781636884 buydate 2016-07-20 00:00:00 bought 239.4 solddate 2016-11-08 00:00:00 sellprice 256.0
+symbol BHARATFIN gainpct -0.710371422772 volratio 7.19536676467 buydate 2015-12-24 00:00:00 bought 489.2 solddate 2016-02-10 00:00:00 sellprice 0.0
+symbol BHARATFIN gainpct 0.981912144703 volratio 6.31020731357 buydate 2016-04-26 00:00:00 bought 586.9 solddate 2016-05-12 00:00:00 sellprice 585.0
+symbol BHARATFIN gainpct 2.00800533689 volratio 20.0 buydate 2016-07-15 00:00:00 bought 0.0 solddate 2016-07-19 00:00:00 sellprice 0.0
+symbol BHARATFIN gainpct 1.36599423631 volratio 16.0673029722 buydate 2016-07-26 00:00:00 bought 0.0 solddate 2016-07-28 00:00:00 sellprice 0.0
+symbol BHEL gainpct 1.45234957843 volratio 2.67066923027 buydate 2017-02-08 00:00:00 bought 104.2 solddate 2017-05-19 00:00:00 sellprice 111.2
+symbol BHEL gainpct 1.71250648677 volratio 1.69612475534 buydate 2017-10-31 00:00:00 bought 98.6 solddate 2017-11-09 00:00:00 sellprice 90.3
+symbol BHEL gainpct 1.92210419828 buydate 2018-01-04 00:00:00 bought 100.75 didnt sell today sellprice 100.75
+symbol BPCL gainpct 0.712302377964 volratio 1.43853772658 buydate 2017-04-11 00:00:00 bought 475.6 solddate 2017-05-23 00:00:00 sellprice 462.8
+symbol BHARTIARTL gainpct 2.74390243902 volratio 1.38602489225 buydate 2017-07-19 00:00:00 bought 422.0 solddate 2017-08-30 00:00:00 sellprice 0.0
+symbol BHUSANSTL gainpct 1.50326797386 volratio 4.12924682362 buydate 2017-10-27 00:00:00 bought 79.2 solddate 2017-11-01 00:00:00 sellprice 64.7
+symbol BIOCON gainpct -0.173937098113 volratio 2.34300204775 buydate 2016-04-06 00:00:00 bought 177.35 solddate 2016-10-27 00:00:00 sellprice 301.283
+symbol BIOCON gainpct 2.47332905709 volratio 5.75680663917 buydate 2017-07-14 00:00:00 bought 400.35 solddate 2017-08-07 00:00:00 sellprice 360.2
+symbol BIOCON gainpct 4.22807195853 buydate 2017-12-04 00:00:00 bought 515.95 didnt sell today sellprice 541.65
+symbol BIRLACORPN gainpct -3.47832258065 volratio 9.49502097761 buydate 2015-12-24 00:00:00 bought 456.8 solddate 2016-02-26 00:00:00 sellprice 338.9
+symbol BIRLACORPN gainpct 0.970632911392 volratio 1.33499020087 buydate 2016-06-23 00:00:00 bought 485.0 solddate 2016-07-26 00:00:00 sellprice 545.55
+symbol BIRLACORPN gainpct 3.90019988242 volratio 3.84458684077 buydate 2017-06-01 00:00:00 bought 893.0 solddate 2017-09-25 00:00:00 sellprice 927.15
+symbol BLISSGVS gainpct -3.14150230802 volratio 3.27587800322 buydate 2016-08-01 00:00:00 bought 116.05 solddate 2016-11-10 00:00:00 sellprice 143.6
+symbol BLISSGVS gainpct 2.69146413752 volratio 3.68068711209 buydate 2017-03-22 00:00:00 bought 175.0 solddate 2017-04-28 00:00:00 sellprice 162.85
+symbol BLISSGVS gainpct 4.31059092207 buydate 2017-10-19 00:00:00 bought 182.7 didnt sell today sellprice 210.1
+symbol BLUEDART gainpct 3.83617555556 volratio 2.86200319604 buydate 2017-03-10 00:00:00 bought 4687.5 solddate 2017-05-03 00:00:00 sellprice 4815.0498
+symbol BLUEDART gainpct 0.448008333333 volratio 2.34786943899 buydate 2017-07-03 00:00:00 bought 4832.0 solddate 2017-07-20 00:00:00 sellprice 4579.0
+symbol BLUEDART gainpct 4.40823393435 buydate 2017-12-11 00:00:00 bought 4536.0 didnt sell today sellprice 4631.6499
+symbol BLUESTARCO gainpct -1.85855664633 volratio 20.0 buydate 2015-12-24 00:00:00 bought 380.45 solddate 2016-06-28 00:00:00 sellprice 420.55
+symbol BOMDYEING gainpct 4.12417910448 volratio 6.62637444986 buydate 2016-09-09 00:00:00 bought 51.0 solddate 2016-11-07 00:00:00 sellprice 56.5
+symbol BOMDYEING gainpct 2.35188405797 volratio 2.27220445883 buydate 2017-03-16 00:00:00 bought 71.5 solddate 2017-05-19 00:00:00 sellprice 79.75
+symbol BRFL gainpct 1.61834120027 volratio 10.0284808423 buydate 2017-07-25 00:00:00 bought 150.0 solddate 2017-08-09 00:00:00 sellprice 132.5
+symbol BRFL gainpct 2.33128834356 volratio 4.31627885513 buydate 2017-11-21 00:00:00 bought 167.95 solddate 2017-12-21 00:00:00 sellprice 159.95
+symbol BOSCHLTD gainpct -1.91730909091 volratio 20.0 buydate 2016-08-01 00:00:00 bought 24710.0 solddate 2016-11-10 00:00:00 sellprice 22200.0
+symbol CARERATING gainpct 1.98616632215 volratio 2.03193998771 buydate 2017-03-30 00:00:00 bought 1619.0 solddate 2017-05-08 00:00:00 sellprice 1516.0
+symbol CESC gainpct -0.271799594769 volratio 1.69609364753 buydate 2016-04-25 00:00:00 bought 546.7 solddate 2016-09-28 00:00:00 sellprice 618.7
+symbol CESC gainpct 4.18924915897 volratio 3.27073618672 buydate 2017-01-24 00:00:00 bought 736.15 solddate 2017-05-19 00:00:00 sellprice 853.0
+symbol CGPOWER gainpct -2.48447204969 volratio 20.0 buydate 2016-08-01 00:00:00 bought 79.4 solddate 2016-08-18 00:00:00 sellprice 86.6
+symbol CGPOWER gainpct -0.65445026178 volratio 5.25966032364 buydate 2016-10-20 00:00:00 bought 0.0 solddate 2016-10-24 00:00:00 sellprice 75.7
+symbol CGPOWER gainpct 2.0316027088 volratio 9.94490824656 buydate 2017-02-20 00:00:00 bought 68.15 solddate 2017-03-07 00:00:00 sellprice 71.7
+symbol CGPOWER gainpct 0.124300807955 volratio 2.14590215188 buydate 2017-04-05 00:00:00 bought 80.9 solddate 2017-04-12 00:00:00 sellprice 0.0
+symbol CADILAHC gainpct 3.12320553474 volratio 4.32836900432 buydate 2016-07-08 00:00:00 bought 366.95 solddate 2016-11-08 00:00:00 sellprice 384.2
+symbol CADILAHC gainpct 0.209854014599 volratio 1.42859354475 buydate 2017-06-12 00:00:00 bought 546.05 solddate 2017-08-10 00:00:00 sellprice 477.55
+symbol CANFINHOME gainpct 1.5582303188 volratio 1.13563240135 buydate 2017-06-15 00:00:00 bought 628.0 solddate 2017-08-04 00:00:00 sellprice 594.2
+symbol CAPF gainpct 4.77752688172 volratio 3.51804790884 buydate 2017-03-31 00:00:00 bought 783.4 solddate 2017-05-18 00:00:00 sellprice 720.95
+symbol CAPLIPOINT gainpct 4.212595226 volratio 2.85846880014 buydate 2017-01-16 00:00:00 bought 412.95 solddate 2017-02-16 00:00:00 sellprice 389.0
+symbol CAPLIPOINT gainpct 3.42270718232 volratio 2.30313158788 buydate 2017-05-23 00:00:00 bought 569.3 solddate 2017-08-23 00:00:00 sellprice 640.0
+symbol CARBORUNIV gainpct -0.842229544206 volratio 3.41949272148 buydate 2015-12-24 00:00:00 bought 182.55 solddate 2016-06-29 00:00:00 sellprice 230.0
+symbol CARBORUNIV gainpct 3.00291201983 volratio 2.58084388816 buydate 2017-06-14 00:00:00 bought 333.0 solddate 2017-08-11 00:00:00 sellprice 322.0
+symbol CASTROLIND gainpct 2.95103092784 volratio 4.60682333503 buydate 2017-10-26 00:00:00 bought 202.375 solddate 2017-11-23 00:00:00 sellprice 195.0
+symbol CEATLTD gainpct 3.45928582407 volratio 2.76050003883 buydate 2016-09-07 00:00:00 bought 1021.5 solddate 2016-11-22 00:00:00 sellprice 1162.4
+symbol CEATLTD gainpct 0.349831984115 volratio 1.28201764185 buydate 2017-03-23 00:00:00 bought 1324.0 solddate 2017-08-07 00:00:00 sellprice 1740.0
+symbol CEATLTD gainpct 1.28831168831 buydate 2017-12-22 00:00:00 bought 1949.8 didnt sell today sellprice 1941.15
+symbol CENTRALBK gainpct 1.2213740458 volratio 1.22209795109 buydate 2016-03-02 00:00:00 bought 69.4 solddate 2016-05-24 00:00:00 sellprice 76.35
+symbol CENTRALBK gainpct 2.46913580247 volratio 1.88037335347 buydate 2016-06-08 00:00:00 bought 87.9 solddate 2016-09-19 00:00:00 sellprice 100.6
+symbol CENTRALBK gainpct 2.27777777778 volratio 4.966205827 buydate 2017-02-07 00:00:00 bought 93.15 solddate 2017-02-16 00:00:00 sellprice 86.0
+symbol CENTRALBK gainpct -2.71276595745 volratio 3.76169087993 buydate 2017-10-25 00:00:00 bought 91.8 solddate 2017-10-30 00:00:00 sellprice 82.5
+symbol CENTURYPLY gainpct -1.35483323912 volratio 6.55925549592 buydate 2015-12-24 00:00:00 bought 176.15 solddate 2016-05-17 00:00:00 sellprice 170.4
+symbol CENTURYPLY gainpct 2.16277703605 volratio 1.40381361007 buydate 2016-06-15 00:00:00 bought 191.0 solddate 2016-07-26 00:00:00 sellprice 231.25
+symbol CENTURYPLY gainpct 1.48990825688 volratio 2.59379294395 buydate 2017-01-30 00:00:00 bought 201.0 solddate 2017-02-14 00:00:00 sellprice 227.2
+symbol CENTURYPLY gainpct 0.333289473684 volratio 3.62574766609 buydate 2017-06-12 00:00:00 bought 308.8 solddate 2017-08-02 00:00:00 sellprice 278.05
+symbol CENTURYTEX gainpct 2.24387012987 volratio 1.91081239261 buydate 2016-09-07 00:00:00 bought 792.0 solddate 2016-11-15 00:00:00 sellprice 811.25
+symbol CERA gainpct 2.88189073837 volratio 5.77817257774 buydate 2017-02-07 00:00:00 bought 2439.8999 solddate 2017-05-25 00:00:00 sellprice 2857.55
+symbol CHAMBLFERT gainpct -4.79551122195 volratio 11.1353192179 buydate 2015-12-24 00:00:00 bought 59.7 solddate 2016-07-21 00:00:00 sellprice 65.0
+symbol CHAMBLFERT gainpct -0.910206896552 volratio 4.09809516909 buydate 2016-12-08 00:00:00 bought 73.15 solddate 2017-02-14 00:00:00 sellprice 80.1
+symbol CUB gainpct 1.98042263226 volratio 2.04037619681 buydate 2016-05-27 00:00:00 bought 97.0 solddate 2016-11-16 00:00:00 sellprice 128.182
+symbol CUB gainpct 4.18706735197 volratio 1.82724878049 buydate 2017-01-27 00:00:00 bought 140.091 solddate 2017-02-28 00:00:00 sellprice 132.727
+symbol CUB gainpct 2.68115042687 volratio 1.06657718825 buydate 2017-05-11 00:00:00 bought 159.045 solddate 2017-07-24 00:00:00 sellprice 159.95
+symbol COALINDIA gainpct 1.57039711191 volratio 1.3137047616 buydate 2017-10-09 00:00:00 bought 281.35 solddate 2017-11-14 00:00:00 sellprice 274.35
+symbol COFFEEDAY gainpct 0.939985538684 volratio 1.96664936899 buydate 2015-12-24 00:00:00 bought 279.2 solddate 2016-06-22 00:00:00 sellprice 252.5
+symbol COROMANDEL gainpct -3.66623828648 volratio 6.6056679765 buydate 2015-12-31 00:00:00 bought 189.3 solddate 2016-07-07 00:00:00 sellprice 220.75
+symbol COROMANDEL gainpct 4.35115384615 volratio 3.43670063001 buydate 2017-01-09 00:00:00 bought 328.2 solddate 2017-02-14 00:00:00 sellprice 355.9
+symbol CORPBANK gainpct 1.77890724269 volratio 4.03892313607 buydate 2016-06-17 00:00:00 bought 39.95 solddate 2016-08-03 00:00:00 sellprice 40.5
+symbol CORPBANK gainpct 4.2735042735 volratio 2.58073568191 buydate 2017-04-03 00:00:00 bought 54.9 solddate 2017-05-23 00:00:00 sellprice 53.45
+symbol CROMPTON gainpct 2.12632167832 volratio 3.6287304691 buydate 2017-01-25 00:00:00 bought 183.9 solddate 2017-06-15 00:00:00 sellprice 221.7
+symbol CROMPTON gainpct 4.77083333333 buydate 2017-11-10 00:00:00 bought 253.1 didnt sell today sellprice 282.95
+symbol CUMMINSIND gainpct 2.21835728953 volratio 1.97800582308 buydate 2017-07-21 00:00:00 bought 1005.0 solddate 2017-08-07 00:00:00 sellprice 936.6
+symbol CUMMINSIND gainpct 3.57142857143 buydate 2018-01-04 00:00:00 bought 972.95 didnt sell today sellprice 972.95
+symbol DCMSHRIRAM gainpct -5.85422848665 volratio 2.31360875012 buydate 2015-12-24 00:00:00 bought 132.8 solddate 2016-09-30 00:00:00 sellprice 205.15
+symbol DCMSHRIRAM gainpct 3.81836359458 volratio 2.45680118705 buydate 2017-09-11 00:00:00 bought 458.0 solddate 2017-09-28 00:00:00 sellprice 407.0
+symbol DLF gainpct 3.63136738056 volratio 1.81670902194 buydate 2016-07-04 00:00:00 bought 158.5 solddate 2016-09-01 00:00:00 sellprice 155.0
+symbol DLF gainpct 2.78325123153 buydate 2017-11-01 00:00:00 bought 208.1 didnt sell today sellprice 257.5
+symbol DALMIABHA gainpct 3.64493381468 volratio 3.31625647523 buydate 2015-12-31 00:00:00 bought 880.0 solddate 2016-01-18 00:00:00 sellprice 764.0
+symbol DALMIABHA gainpct 1.96101600557 volratio 10.6738844449 buydate 2016-07-28 00:00:00 bought 1465.0 solddate 2016-11-15 00:00:00 sellprice 1823.3
+symbol DALMIABHA gainpct 2.404 volratio 4.06484307482 buydate 2017-04-07 00:00:00 bought 2165.0 solddate 2017-08-11 00:00:00 sellprice 2400.2
+symbol DALMIABHA gainpct 2.44333333333 buydate 2017-11-02 00:00:00 bought 3075.0 didnt sell today sellprice 3101.05
+symbol DEEPAKFERT gainpct -1.83615819209 volratio 1.23495889054 buydate 2017-11-06 00:00:00 bought 453.0 solddate 2017-11-17 00:00:00 sellprice 0.0
+symbol DELTACORP gainpct 1.69930955121 volratio 1.48614146108 buydate 2016-04-25 00:00:00 bought 89.5 solddate 2016-11-07 00:00:00 sellprice 164.0
+symbol DELTACORP gainpct 2.59222222222 volratio 1.3554681511 buydate 2017-01-10 00:00:00 bought 130.9 solddate 2017-01-25 00:00:00 sellprice 122.55
+symbol DELTACORP gainpct 2.13543670643 buydate 2017-10-31 00:00:00 bought 266.8 didnt sell today sellprice 306.4
+symbol DENABANK gainpct 2.61096605744 volratio 1.81431887397 buydate 2016-06-28 00:00:00 bought 39.9 solddate 2016-08-11 00:00:00 sellprice 36.8
+symbol DENABANK gainpct 1.54639175258 volratio 3.88824619597 buydate 2017-02-03 00:00:00 bought 40.1 solddate 2017-03-09 00:00:00 sellprice 36.7
+symbol DENABANK gainpct 0.106609808102 volratio 1.94545524524 buydate 2017-05-04 00:00:00 bought 47.3 solddate 2017-05-15 00:00:00 sellprice 40.3
+symbol DHFL gainpct -0.411723329426 volratio 1.54956892587 buydate 2016-08-11 00:00:00 bought 260.4 solddate 2016-11-10 00:00:00 sellprice 287.9
+symbol DHFL gainpct 4.72149429518 volratio 4.57960754067 buydate 2017-01-16 00:00:00 bought 291.4 solddate 2017-08-10 00:00:00 sellprice 422.05
+symbol DHFL gainpct 1.39311908517 volratio 1.05790139053 buydate 2017-09-01 00:00:00 bought 517.95 solddate 2017-12-05 00:00:00 sellprice 580.5
+symbol DHANUKA gainpct 0.779425465839 volratio 1.63300418093 buydate 2016-04-13 00:00:00 bought 649.55 solddate 2016-06-27 00:00:00 sellprice 639.9
+symbol DHANUKA gainpct 2.4231010929 volratio 1.50724519866 buydate 2016-08-30 00:00:00 bought 748.6 solddate 2016-09-14 00:00:00 sellprice 671.15
+symbol DHANUKA gainpct 0.699730769231 volratio 1.12771732263 buydate 2017-01-09 00:00:00 bought 798.0 solddate 2017-01-23 00:00:00 sellprice 725.0
+symbol DBL gainpct 4.15991786448 volratio 4.16311177341 buydate 2016-12-01 00:00:00 bought 237.95 solddate 2016-12-05 00:00:00 sellprice 223.5
+symbol DBL gainpct 1.57507605897 volratio 2.53908108664 buydate 2017-04-24 00:00:00 bought 439.75 solddate 2017-06-28 00:00:00 sellprice 412.8
+symbol DBL gainpct 4.39647259244 volratio 2.23850923395 buydate 2017-07-12 00:00:00 bought 529.0 solddate 2017-10-06 00:00:00 sellprice 685.0
+symbol DIVISLAB gainpct 1.02425598059 volratio 1.7520838031 buydate 2016-08-24 00:00:00 bought 1350.0 solddate 2016-10-07 00:00:00 sellprice 1269.45
+symbol DIVISLAB gainpct 0.130523415978 volratio 1.55636040183 buydate 2017-07-10 00:00:00 bought 742.25 solddate 2017-07-28 00:00:00 sellprice 657.0
+symbol LALPATHLAB gainpct 4.35695798319 volratio 1.65611102697 buydate 2016-09-19 00:00:00 bought 1255.0 solddate 2016-10-10 00:00:00 sellprice 1050.0
+symbol LALPATHLAB gainpct 3.00223553387 buydate 2017-11-03 00:00:00 bought 837.6 didnt sell today sellprice 896.2
+symbol DRREDDY gainpct 0.559126506024 volratio 1.61948710168 buydate 2016-10-28 00:00:00 bought 3363.45 solddate 2016-11-07 00:00:00 sellprice 3124.0
+symbol EIHOTEL gainpct 0.0723954372624 volratio 3.83546905098 buydate 2017-04-19 00:00:00 bought 133.45 solddate 2017-06-19 00:00:00 sellprice 131.4
+symbol EIHOTEL gainpct 1.43790849673 volratio 7.33524238502 buydate 2017-10-30 00:00:00 bought 155.5 solddate 2017-12-04 00:00:00 sellprice 148.1
+symbol EDELWEISS gainpct 4.72222222222 volratio 5.14229295811 buydate 2017-08-03 00:00:00 bought 226.25 solddate 2017-12-15 00:00:00 sellprice 280.2
+symbol EICHERMOT gainpct 2.58063271379 volratio 4.15367013359 buydate 2016-07-28 00:00:00 bought 21599.0 solddate 2016-11-07 00:00:00 sellprice 24271.9004
+symbol EICHERMOT gainpct 4.24010603104 volratio 2.9224869368 buydate 2017-08-01 00:00:00 bought 31750.0 solddate 2017-09-27 00:00:00 sellprice 30967.8008
+symbol EMAMILTD gainpct 1.47100869565 volratio 1.34778269499 buydate 2017-02-03 00:00:00 bought 1174.95 solddate 2017-02-20 00:00:00 sellprice 1069.0
+symbol EMAMILTD gainpct 2.04692755763 buydate 2017-10-27 00:00:00 bought 1253.5 didnt sell today sellprice 1328.65
+symbol ENDURANCE gainpct 3.51288389513 buydate 2017-04-10 00:00:00 bought 833.1 didnt sell today sellprice 1350.3
+symbol ENGINERSIN gainpct 2.57107186358 volratio 2.3295072553 buydate 2017-04-20 00:00:00 bought 169.75 solddate 2017-05-08 00:00:00 sellprice 166.0
+symbol EQUITAS gainpct 3.76344086022 volratio 4.85760999126 buydate 2016-06-03 00:00:00 bought 174.0 solddate 2016-08-04 00:00:00 sellprice 178.8
+symbol EQUITAS gainpct 1.71875 volratio 1.68271154635 buydate 2017-01-19 00:00:00 bought 162.25 solddate 2017-03-09 00:00:00 sellprice 165.45
+symbol EROSMEDIA gainpct -0.810295519542 volratio 3.94991388064 buydate 2017-02-13 00:00:00 bought 209.25 solddate 2017-04-26 00:00:00 sellprice 231.4
+symbol ESCORTS gainpct 3.34419047619 volratio 2.36293901465 buydate 2016-06-27 00:00:00 bought 219.4 solddate 2016-11-07 00:00:00 sellprice 360.05
+symbol ESCORTS gainpct 4.62865883909 volratio 4.98482478474 buydate 2017-05-10 00:00:00 bought 634.75 solddate 2017-07-03 00:00:00 sellprice 639.0
+symbol ESCORTS gainpct 4.11051212938 volratio 1.28325474589 buydate 2017-10-30 00:00:00 bought 781.5 solddate 2017-11-14 00:00:00 sellprice 682.0
+symbol ESCORTS gainpct 3.42218055183 buydate 2017-12-28 00:00:00 bought 774.0 didnt sell today sellprice 788.55
+symbol EVEREADY gainpct 1.95247743599 volratio 2.3444475184 buydate 2017-04-05 00:00:00 bought 278.4 solddate 2017-07-19 00:00:00 sellprice 332.9
+symbol EVEREADY gainpct 1.25925925926 buydate 2017-11-20 00:00:00 bought 414.15 didnt sell today sellprice 440.65
+symbol FINPIPE gainpct 4.98655397618 volratio 3.07992385966 buydate 2017-09-18 00:00:00 bought 689.0 solddate 2017-09-28 00:00:00 sellprice 604.2
+symbol FINPIPE gainpct 2.29285714286 volratio 2.01551439952 buydate 2017-10-18 00:00:00 bought 716.05 solddate 2017-11-15 00:00:00 sellprice 651.8
+symbol FORTIS gainpct 0.86592178771 volratio 1.81162655526 buydate 2016-07-21 00:00:00 bought 180.6 solddate 2016-08-26 00:00:00 sellprice 176.7
+symbol FORTIS gainpct 2.34208658623 volratio 1.47458192038 buydate 2017-04-25 00:00:00 bought 218.0 solddate 2017-05-19 00:00:00 sellprice 197.8
+symbol FCONSUMER gainpct -0.46511627907 volratio 4.80062359616 buydate 2016-05-26 00:00:00 bought 21.4 solddate 2016-09-01 00:00:00 sellprice 20.7
+symbol FCONSUMER gainpct 2.01207243461 volratio 2.04356054997 buydate 2017-08-31 00:00:00 bought 51.05 solddate 2017-10-10 00:00:00 sellprice 65.65
+symbol FCONSUMER gainpct 2.68817204301 buydate 2017-12-22 00:00:00 bought 76.4 didnt sell today sellprice 75.65
+symbol FLFL gainpct 4.95189066059 volratio 1.60227972327 buydate 2016-05-18 00:00:00 bought 117.0 solddate 2016-09-14 00:00:00 sellprice 121.6
+symbol FLFL gainpct 2.01673754973 volratio 2.60297312624 buydate 2017-08-23 00:00:00 bought 373.5 solddate 2017-09-26 00:00:00 sellprice 337.7
+symbol GEPIL gainpct 2.42873243908 volratio 8.18763748872 buydate 2015-12-24 00:00:00 bought 648.25 solddate 2016-02-01 00:00:00 sellprice 0.0
+symbol GEPIL gainpct 0.0614316495092 volratio 3.0603060306 buydate 2016-04-26 00:00:00 bought 631.5 solddate 2016-05-10 00:00:00 sellprice 596.0
+symbol GEPIL gainpct -1.51438709677 volratio 20.0 buydate 2016-08-01 00:00:00 bought 619.0 solddate 2016-10-19 00:00:00 sellprice 514.0
+symbol GVKPIL gainpct 3.6496350365 volratio 2.05910233665 buydate 2016-07-14 00:00:00 bought 7.15 solddate 2016-08-03 00:00:00 sellprice 6.15
+symbol GVKPIL gainpct 0.735294117647 volratio 3.2921961221 buydate 2017-02-07 00:00:00 bought 6.95 solddate 2017-03-09 00:00:00 sellprice 6.2
+symbol GVKPIL gainpct 4.82954545455 buydate 2017-12-26 00:00:00 bought 18.9 didnt sell today sellprice 20.0
+symbol GATI gainpct 1.91990276512 volratio 2.70777967261 buydate 2015-11-27 00:00:00 bought 170.95 solddate 2015-12-10 00:00:00 sellprice 151.9
+symbol GATI gainpct 0.990316072629 volratio 2.35456669596 buydate 2016-06-09 00:00:00 bought 153.55 solddate 2016-08-10 00:00:00 sellprice 161.8
+symbol GSKCONS gainpct 3.32029331248 buydate 2017-11-01 00:00:00 bought 5300.0 didnt sell today sellprice 6402.7998
+symbol GLENMARK gainpct 1.05599706745 volratio 1.06259564291 buydate 2017-07-18 00:00:00 bought 692.75 solddate 2017-07-25 00:00:00 sellprice 696.35
+symbol GLENMARK gainpct 0.826375873232 buydate 2017-12-28 00:00:00 bought 596.0 didnt sell today sellprice 589.4
+symbol GODFRYPHLP gainpct 4.07105179283 volratio 6.77770586812 buydate 2015-12-30 00:00:00 bought 1330.0 solddate 2016-02-12 00:00:00 sellprice 997.0
+symbol GODFRYPHLP gainpct -0.106515334137 volratio 1.99652260833 buydate 2016-09-08 00:00:00 bought 1510.0 solddate 2016-09-30 00:00:00 sellprice 1218.55
+symbol GODREJCP gainpct 3.56442168325 volratio 2.89755499436 buydate 2017-07-27 00:00:00 bought 1073.35 solddate 2017-08-03 00:00:00 sellprice 920.0
+symbol GODREJIND gainpct 3.44520131679 volratio 2.19906413864 buydate 2016-06-29 00:00:00 bought 409.6 solddate 2016-08-10 00:00:00 sellprice 398.55
+symbol GODREJIND gainpct 3.03582335947 volratio 2.07623414405 buydate 2017-02-06 00:00:00 bought 499.8 solddate 2017-08-09 00:00:00 sellprice 625.5
+symbol GODREJPROP gainpct 4.33027522936 volratio 2.73430342184 buydate 2017-08-30 00:00:00 bought 567.65 solddate 2017-10-10 00:00:00 sellprice 649.0
+symbol GRANULES gainpct 2.9326984127 volratio 1.47283290658 buydate 2017-02-08 00:00:00 bought 132.0 solddate 2017-05-24 00:00:00 sellprice 140.9
+symbol GRANULES gainpct 2.71638624726 volratio 1.5929184089 buydate 2017-10-16 00:00:00 bought 141.15 solddate 2017-11-10 00:00:00 sellprice 131.7
+symbol GREAVESCOT gainpct -6.13921708185 volratio 4.17301521617 buydate 2015-12-14 00:00:00 bought 0.0 solddate 2015-12-16 00:00:00 sellprice 144.4
+symbol GREENPLY gainpct 0.532712632109 volratio 1.84554813408 buydate 2016-01-06 00:00:00 bought 197.95 solddate 2016-11-11 00:00:00 sellprice 271.05
+symbol GREENPLY gainpct 2.96150049358 buydate 2017-11-07 00:00:00 bought 315.0 didnt sell today sellprice 371.25
+symbol GUJALKALI gainpct 2.1368677792 volratio 9.3893352027 buydate 2016-10-26 00:00:00 bought 402.0 solddate 2016-11-22 00:00:00 sellprice 337.85
+symbol GUJALKALI gainpct 1.13829787234 volratio 1.99312325134 buydate 2017-09-11 00:00:00 bought 476.5 solddate 2017-12-15 00:00:00 sellprice 710.0
+symbol GUJFLUORO gainpct 3.44292180428 volratio 2.31998936935 buydate 2017-03-27 00:00:00 bought 671.9 solddate 2017-05-22 00:00:00 sellprice 684.95
+symbol GUJGASLTD gainpct -1.71366823394 volratio 5.51893217107 buydate 2015-12-24 00:00:00 bought 600.3 solddate 2016-05-10 00:00:00 sellprice 518.0
+symbol GUJGASLTD gainpct -0.588177419355 volratio 2.8393816375 buydate 2017-02-07 00:00:00 bought 612.6 solddate 2017-05-25 00:00:00 sellprice 736.0
+symbol GNFC gainpct 4.46527602191 volratio 4.85778067591 buydate 2017-01-05 00:00:00 bought 254.3 solddate 2017-05-23 00:00:00 sellprice 281.8
+symbol GNFC gainpct 4.26102103712 buydate 2017-10-09 00:00:00 bought 395.0 didnt sell today sellprice 486.8
+symbol GSFC gainpct 2.12970479705 volratio 2.90785543074 buydate 2017-01-10 00:00:00 bought 113.1 solddate 2017-04-12 00:00:00 sellprice 117.75
+symbol GSFC gainpct 1.07351984385 volratio 1.94219742544 buydate 2017-10-26 00:00:00 bought 155.95 solddate 2017-11-10 00:00:00 sellprice 140.5
+symbol GSPL gainpct 4.45931849791 volratio 2.80782407444 buydate 2016-08-18 00:00:00 bought 153.4 solddate 2016-11-07 00:00:00 sellprice 152.1
+symbol GULFOILLUB gainpct -2.38304 volratio 11.7921225383 buydate 2015-12-24 00:00:00 bought 499.4 solddate 2016-06-15 00:00:00 sellprice 527.0
+symbol GULFOILLUB gainpct 3.68076443058 volratio 9.56473695149 buydate 2016-08-04 00:00:00 bought 675.5 solddate 2016-11-15 00:00:00 sellprice 707.5
+symbol HDFCBANK gainpct 1.657479474 volratio 2.44296260557 buydate 2017-04-24 00:00:00 bought 1535.05 solddate 2017-10-26 00:00:00 sellprice 1768.0
+symbol HSIL gainpct 3.29512120282 volratio 2.19293851949 buydate 2017-03-06 00:00:00 bought 341.05 solddate 2017-05-19 00:00:00 sellprice 327.9
+symbol HATHWAY gainpct 0.65963060686 buydate 2017-11-03 00:00:00 bought 42.5 didnt sell today sellprice 39.75
+symbol HAVELLS gainpct 1.24184491979 volratio 1.74011712737 buydate 2017-01-16 00:00:00 bought 381.4 solddate 2017-05-24 00:00:00 sellprice 452.0
+symbol HEIDELBERG gainpct 0.805916398714 volratio 15.4582440598 buydate 2015-12-24 00:00:00 bought 79.65 solddate 2016-07-26 00:00:00 sellprice 128.0
+symbol HERITGFOOD gainpct 4.6815959596 volratio 1.96389789168 buydate 2017-02-01 00:00:00 bought 520.0 solddate 2017-03-29 00:00:00 sellprice 520.325
+symbol HERITGFOOD gainpct 2.48414176848 volratio 1.96149124368 buydate 2017-07-21 00:00:00 bought 642.5 solddate 2017-10-10 00:00:00 sellprice 0.0
+symbol HEXAWARE gainpct 3.53611691023 volratio 1.56710964334 buydate 2017-05-08 00:00:00 bought 251.9 solddate 2017-07-04 00:00:00 sellprice 239.5
+symbol HEXAWARE gainpct 4.45940965173 buydate 2017-11-07 00:00:00 bought 336.0 didnt sell today sellprice 352.0
+symbol HFCL gainpct 4.57516339869 volratio 2.81317150038 buydate 2017-04-21 00:00:00 bought 16.45 solddate 2017-05-19 00:00:00 sellprice 14.35
+symbol HFCL gainpct 4.96688741722 volratio 3.49381667966 buydate 2017-07-19 00:00:00 bought 16.15 solddate 2017-08-11 00:00:00 sellprice 14.9
+symbol HFCL gainpct 4.84261501211 volratio 4.90464039709 buydate 2017-09-04 00:00:00 bought 21.9 solddate 2017-11-29 00:00:00 sellprice 26.5
+symbol HIMATSEIDE gainpct 2.74682363394 volratio 2.11947174319 buydate 2016-04-29 00:00:00 bought 233.0 solddate 2016-09-06 00:00:00 sellprice 254.9
+symbol HIMATSEIDE gainpct 3.13184688749 volratio 1.93046325859 buydate 2017-12-26 00:00:00 bought 403.35 solddate 2018-01-02 00:00:00 sellprice 0.0
+symbol HINDALCO gainpct 3.58488664987 volratio 1.50255806612 buydate 2016-03-08 00:00:00 bought 80.4 solddate 2016-05-20 00:00:00 sellprice 87.6
+symbol HINDALCO gainpct 0.975945683802 volratio 2.62718330641 buydate 2016-05-31 00:00:00 bought 105.35 solddate 2016-09-14 00:00:00 sellprice 140.85
+symbol HINDALCO gainpct 1.32582710779 volratio 1.75820680272 buydate 2017-01-25 00:00:00 bought 190.75 solddate 2017-04-17 00:00:00 sellprice 183.25
+symbol HINDALCO gainpct 2.40077108434 volratio 1.37125187373 buydate 2017-07-19 00:00:00 bought 213.3 solddate 2017-09-26 00:00:00 sellprice 228.25
+symbol HINDALCO gainpct 1.0989010989 volratio 1.50231933899 buydate 2017-10-16 00:00:00 bought 271.9 solddate 2017-11-16 00:00:00 sellprice 253.55
+symbol HINDALCO gainpct 3.08988764045 buydate 2017-12-28 00:00:00 bought 276.75 didnt sell today sellprice 279.8
+symbol HCC gainpct 0.460829493088 volratio 8.87141061942 buydate 2016-04-20 00:00:00 bought 0.0 solddate 2016-04-22 00:00:00 sellprice 0.0
+symbol HCC gainpct 2.21674876847 volratio 13.5756708229 buydate 2016-06-20 00:00:00 bought 0.0 solddate 2016-06-22 00:00:00 sellprice 20.25
+symbol HCC gainpct -3.81355932203 volratio 8.61131203568 buydate 2016-08-01 00:00:00 bought 22.8 solddate 2016-08-18 00:00:00 sellprice 22.0
+symbol HCC gainpct 3.04347826087 volratio 5.35713841451 buydate 2016-09-02 00:00:00 bought 35.55 solddate 2016-11-16 00:00:00 sellprice 32.5
+symbol HINDCOPPER gainpct -2.81701030928 volratio 9.54887246384 buydate 2015-12-04 00:00:00 bought 0.0 solddate 2015-12-08 00:00:00 sellprice 0.0
+symbol HINDCOPPER gainpct 0.275458515284 volratio 12.1368380867 buydate 2015-12-24 00:00:00 bought 57.6 solddate 2016-05-23 00:00:00 sellprice 50.5
+symbol HINDCOPPER gainpct 2.36808675445 volratio 2.95765984519 buydate 2016-07-13 00:00:00 bought 66.3 solddate 2016-07-26 00:00:00 sellprice 63.8
+symbol HINDPETRO gainpct 3.1004657352 volratio 1.38142205098 buydate 2017-07-14 00:00:00 bought 383.4 solddate 2017-09-26 00:00:00 sellprice 423.0
+symbol HINDZINC gainpct 1.26652122839 volratio 1.21834372338 buydate 2017-01-24 00:00:00 bought 306.0 solddate 2017-03-10 00:00:00 sellprice 293.25
+symbol HDFC gainpct 1.56107372514 volratio 1.73150162051 buydate 2017-01-27 00:00:00 bought 1370.4 solddate 2017-09-28 00:00:00 sellprice 1720.1
+symbol HDIL gainpct 4.6783625731 volratio 1.48940790898 buydate 2016-01-05 00:00:00 bought 80.45 solddate 2016-01-18 00:00:00 sellprice 69.5
+symbol ITC gainpct -1.01156069364 volratio 4.06100266711 buydate 2017-07-03 00:00:00 bought 342.8 solddate 2017-07-19 00:00:00 sellprice 287.8
+symbol ICICIBANK gainpct 4.26330150068 volratio 5.91210294273 buydate 2017-10-25 00:00:00 bought 299.8 solddate 2017-12-07 00:00:00 sellprice 301.5
+symbol ICICIPRULI gainpct 2.03879781421 volratio 3.43907901832 buydate 2017-01-20 00:00:00 bought 360.0 solddate 2017-05-30 00:00:00 sellprice 397.0
+symbol IDBI gainpct 2.9003021148 volratio 1.80199604354 buydate 2017-02-03 00:00:00 bought 86.1 solddate 2017-03-03 00:00:00 sellprice 76.7
+symbol IDBI gainpct 1.81368507832 volratio 1.00418280983 buydate 2017-07-25 00:00:00 bought 61.7 solddate 2017-07-28 00:00:00 sellprice 59.0
+symbol IDFCBANK gainpct -0.0439065108514 volratio 5.15233547101 buydate 2015-12-24 00:00:00 bought 60.9 solddate 2016-03-01 00:00:00 sellprice 46.0
+symbol IDFCBANK gainpct 1.04003254679 volratio 1.7809689649 buydate 2016-09-08 00:00:00 bought 63.0 solddate 2016-11-22 00:00:00 sellprice 69.1
+symbol IFBIND gainpct 1.96280991736 volratio 1.60689407692 buydate 2016-04-20 00:00:00 bought 399.4 solddate 2016-05-02 00:00:00 sellprice 346.1
+symbol IFBIND gainpct 2.42217898833 volratio 2.85812745534 buydate 2016-10-26 00:00:00 bought 517.1 solddate 2016-11-11 00:00:00 sellprice 440.0
+symbol IFBIND gainpct 1.84259259259 volratio 2.74568897946 buydate 2017-02-01 00:00:00 bought 554.0 solddate 2017-05-11 00:00:00 sellprice 624.9
+symbol IFCI gainpct 3.01003344482 buydate 2017-12-29 00:00:00 bought 30.65 didnt sell today sellprice 29.2
+symbol IRB gainpct 4.29541968004 volratio 2.64597716699 buydate 2017-10-26 00:00:00 bought 239.45 solddate 2017-12-04 00:00:00 sellprice 222.1
+symbol ITDCEM gainpct 1.76470588235 buydate 2017-11-10 00:00:00 bought 205.25 didnt sell today sellprice 216.35
+symbol ITI gainpct 4.79797979798 volratio 2.76196757183 buydate 2016-12-08 00:00:00 bought 41.75 solddate 2017-02-14 00:00:00 sellprice 43.95
+symbol ITI gainpct 4.25 volratio 4.11613470751 buydate 2017-04-24 00:00:00 bought 104.8 solddate 2017-05-24 00:00:00 sellprice 77.0
+symbol IDEA gainpct 4.98409331919 volratio 2.07720638066 buydate 2017-11-01 00:00:00 bought 100.0 solddate 2017-12-14 00:00:00 sellprice 93.55
+symbol INDIACEM gainpct 0.27333725721 volratio 1.73882064049 buydate 2016-03-22 00:00:00 bought 86.65 solddate 2016-05-20 00:00:00 sellprice 86.5
+symbol INDIACEM gainpct 2.37375533428 volratio 2.28527740486 buydate 2016-08-24 00:00:00 bought 146.1 solddate 2016-11-10 00:00:00 sellprice 149.9
+symbol INDIACEM gainpct 1.64 volratio 1.41021990082 buydate 2017-01-11 00:00:00 bought 134.55 solddate 2017-03-28 00:00:00 sellprice 154.9
+symbol ITDC gainpct 0.407830342577 volratio 11.0542563606 buydate 2017-09-21 00:00:00 bought 607.0 solddate 2017-09-28 00:00:00 sellprice 522.95
+symbol IBREALEST gainpct 4.92285084497 volratio 1.86557764075 buydate 2016-05-05 00:00:00 bought 71.0 solddate 2016-07-18 00:00:00 sellprice 88.65
+symbol IBREALEST gainpct 3.51833498513 volratio 1.42723293017 buydate 2017-06-20 00:00:00 bought 212.8 solddate 2017-09-25 00:00:00 sellprice 221.8
+symbol IBVENTURES gainpct -4.2952 volratio 1.36624276509 buydate 2015-12-30 00:00:00 bought 25.4 solddate 2016-02-26 00:00:00 sellprice 18.65
+symbol IBVENTURES gainpct 2.84076738609 volratio 2.22679906086 buydate 2016-05-18 00:00:00 bought 22.15 solddate 2016-06-13 00:00:00 sellprice 18.5
+symbol IBVENTURES gainpct 1.34020618557 volratio 1.16452249138 buydate 2017-03-27 00:00:00 bought 51.25 solddate 2017-11-16 00:00:00 sellprice 258.4
+symbol INDIANB gainpct 2.10925672595 volratio 2.80165471344 buydate 2016-08-18 00:00:00 bought 229.0 solddate 2016-11-04 00:00:00 sellprice 214.05
+symbol INDIANB gainpct 2.00693391116 volratio 1.61659969571 buydate 2017-05-03 00:00:00 bought 336.1 solddate 2017-06-12 00:00:00 sellprice 306.1
+symbol INDHOTEL gainpct 4.34295406603 volratio 6.76216019916 buydate 2015-12-03 00:00:00 bought 102.712 solddate 2016-01-19 00:00:00 sellprice 100.139
+symbol INDHOTEL gainpct 4.51812047182 volratio 2.98838082151 buydate 2017-05-16 00:00:00 bought 135.0 solddate 2017-06-13 00:00:00 sellprice 120.213
+symbol ICIL gainpct 2.26169782719 volratio 1.86599408523 buydate 2017-03-24 00:00:00 bought 203.3 solddate 2017-05-22 00:00:00 sellprice 195.0
+symbol INDOCO gainpct 2.05116894574 buydate 2017-10-09 00:00:00 bought 231.5 didnt sell today sellprice 278.85
+symbol INDUSINDBK gainpct 3.72302109705 volratio 4.01979175744 buydate 2017-01-11 00:00:00 bought 1234.1 solddate 2017-05-22 00:00:00 sellprice 1390.35
+symbol INDUSINDBK gainpct 0.670857004714 volratio 1.10497584675 buydate 2017-08-01 00:00:00 bought 1665.5 solddate 2017-10-25 00:00:00 sellprice 1669.9
+symbol INFIBEAM gainpct 0.737091636418 volratio 1.38526808397 buydate 2017-02-08 00:00:00 bought 136.5 solddate 2017-03-28 00:00:00 sellprice 122.8
+symbol INFIBEAM gainpct 3.8914148168 volratio 3.00983513116 buydate 2017-07-03 00:00:00 bought 116.595 solddate 2017-09-26 00:00:00 sellprice 120.0
+symbol NAUKRI gainpct -0.722112845138 volratio 1.02190274207 buydate 2015-12-24 00:00:00 bought 836.8 solddate 2016-04-29 00:00:00 sellprice 755.0
+symbol NAUKRI gainpct 2.85665263158 volratio 4.77239042981 buydate 2016-10-06 00:00:00 bought 990.0 solddate 2016-10-18 00:00:00 sellprice 863.6
+symbol INOXLEISUR gainpct -1.29607128392 volratio 1.91743166952 buydate 2015-12-24 00:00:00 bought 243.7 solddate 2016-03-30 00:00:00 sellprice 191.2
+symbol INOXWIND gainpct -0.607430428027 volratio 11.6215454101 buydate 2015-12-17 00:00:00 bought 0.0 solddate 2015-12-21 00:00:00 sellprice 0.0
+symbol INOXWIND gainpct -0.245465702986 volratio 5.32562385879 buydate 2015-12-24 00:00:00 bought 365.75 solddate 2016-02-12 00:00:00 sellprice 245.0
+symbol INOXWIND gainpct 0.864410965671 volratio 2.32766199883 buydate 2017-04-20 00:00:00 bought 206.25 solddate 2017-05-16 00:00:00 sellprice 166.0
+symbol INTELLECT gainpct 1.79012345679 buydate 2017-12-19 00:00:00 bought 165.5 didnt sell today sellprice 174.9
+symbol INDIGO gainpct 0.82006948372 volratio 2.81426662361 buydate 2017-10-31 00:00:00 bought 1294.0 solddate 2017-11-14 00:00:00 sellprice 1175.0
+symbol IPCALAB gainpct 1.8963502455 volratio 2.2016768094 buydate 2017-03-31 00:00:00 bought 618.3 solddate 2017-05-04 00:00:00 sellprice 570.35
+symbol JKCEMENT gainpct 3.92460378183 volratio 2.57180035711 buydate 2016-10-07 00:00:00 bought 961.8 solddate 2016-11-07 00:00:00 sellprice 862.0
+symbol JBFIND gainpct 0.725181295324 volratio 3.57632051348 buydate 2017-10-10 00:00:00 bought 203.35 solddate 2017-12-05 00:00:00 sellprice 203.6
+symbol JKLAKSHMI gainpct 4.6249044586 volratio 2.50862180463 buydate 2016-03-18 00:00:00 bought 331.9 solddate 2016-06-07 00:00:00 sellprice 339.6
+symbol JKLAKSHMI gainpct 2.85307682172 volratio 2.88157505494 buydate 2016-06-20 00:00:00 bought 393.45 solddate 2016-11-07 00:00:00 sellprice 467.4
+symbol JKLAKSHMI gainpct 2.52090800478 volratio 1.92371052284 buydate 2017-10-25 00:00:00 bought 429.05 solddate 2017-11-21 00:00:00 sellprice 408.0
+symbol JMFINANCIL gainpct -6.1644836272 volratio 1.6797082152 buydate 2015-12-24 00:00:00 bought 39.2 solddate 2016-09-30 00:00:00 sellprice 62.25
+symbol JMFINANCIL gainpct 3.65360169492 volratio 3.21952333715 buydate 2017-04-10 00:00:00 bought 99.75 solddate 2017-06-28 00:00:00 sellprice 114.75
+symbol JMFINANCIL gainpct 4.59558823529 volratio 4.00459630901 buydate 2017-09-01 00:00:00 bought 143.2 solddate 2017-11-14 00:00:00 sellprice 151.0
+symbol JSWENERGY gainpct 3.69127516779 volratio 2.15200141651 buydate 2017-09-12 00:00:00 bought 78.0 solddate 2017-09-28 00:00:00 sellprice 69.45
+symbol JSWSTEEL gainpct 2.39411392405 volratio 2.21460112983 buydate 2016-07-15 00:00:00 bought 163.27 solddate 2016-09-30 00:00:00 sellprice 167.2
+symbol JSWSTEEL gainpct 3.43614054657 volratio 3.61726188546 buydate 2017-01-11 00:00:00 bought 188.25 solddate 2017-03-08 00:00:00 sellprice 181.65
+symbol JSWSTEEL gainpct 3.66146458583 volratio 1.42359773941 buydate 2017-08-30 00:00:00 bought 259.2 solddate 2017-09-26 00:00:00 sellprice 237.25
+symbol JAICORPLTD gainpct -0.83429672447 volratio 7.20013676547 buydate 2015-12-15 00:00:00 bought 52.6 solddate 2015-12-18 00:00:00 sellprice 0.0
+symbol JAICORPLTD gainpct -0.193798449612 volratio 1.91126942007 buydate 2017-11-06 00:00:00 bought 129.05 solddate 2017-11-17 00:00:00 sellprice 119.25
+symbol JISLJALEQS gainpct 3.48760869565 volratio 1.44437507455 buydate 2016-09-07 00:00:00 bought 96.55 solddate 2016-11-16 00:00:00 sellprice 89.0
+symbol JISLJALEQS gainpct 4.27727063163 volratio 5.31166114866 buydate 2017-04-20 00:00:00 bought 113.5 solddate 2017-05-15 00:00:00 sellprice 101.4
+symbol JISLJALEQS gainpct 0.227686703097 volratio 2.20904640669 buydate 2017-11-03 00:00:00 bought 109.7 solddate 2017-11-13 00:00:00 sellprice 97.1
+symbol JPPOWER gainpct 0.980392156863 volratio 1.44026664023 buydate 2016-06-17 00:00:00 bought 5.1 solddate 2016-06-28 00:00:00 sellprice 4.55
+symbol JPPOWER gainpct 1.8691588785 volratio 3.34160489076 buydate 2017-06-29 00:00:00 bought 5.5 solddate 2017-08-14 00:00:00 sellprice 5.2
+symbol JPPOWER gainpct 3.47222222222 volratio 2.59671694683 buydate 2017-09-11 00:00:00 bought 7.55 solddate 2017-11-09 00:00:00 sellprice 7.4
+symbol JETAIRWAYS gainpct 1.15622241836 volratio 1.43330602635 buydate 2015-12-08 00:00:00 bought 579.0 solddate 2016-02-01 00:00:00 sellprice 635.0
+symbol JETAIRWAYS gainpct 4.825 volratio 1.78778536885 buydate 2016-04-06 00:00:00 bought 623.0 solddate 2016-05-23 00:00:00 sellprice 607.1
+symbol JETAIRWAYS gainpct 0.73673870334 volratio 1.07839377919 buydate 2017-03-28 00:00:00 bought 515.25 solddate 2017-05-23 00:00:00 sellprice 485.0
+symbol JETAIRWAYS gainpct 1.73561151079 volratio 1.70475297165 buydate 2017-06-21 00:00:00 bought 570.8 solddate 2017-08-11 00:00:00 sellprice 546.9
+symbol JETAIRWAYS gainpct 3.20699708455 volratio 1.73428043393 buydate 2017-11-13 00:00:00 bought 710.0 solddate 2017-11-17 00:00:00 sellprice 0.0
+symbol JINDALPOLY gainpct -0.71252229047 volratio 7.39005325995 buydate 2015-12-24 00:00:00 bought 503.7 solddate 2016-03-01 00:00:00 sellprice 378.1
+symbol JINDALSAW gainpct 0.963857142857 volratio 5.81903261756 buydate 2017-02-10 00:00:00 bought 71.9 solddate 2017-05-19 00:00:00 sellprice 79.05
+symbol JINDALSAW gainpct 4.34947121034 volratio 4.39251243127 buydate 2017-06-20 00:00:00 bought 90.75 solddate 2017-08-14 00:00:00 sellprice 89.55
+symbol JINDALSAW gainpct 1.34057971014 buydate 2017-12-29 00:00:00 bought 141.15 didnt sell today sellprice 163.75
+symbol JSLHISAR gainpct 4.97159090909 volratio 2.21982145784 buydate 2016-04-22 00:00:00 bought 36.4 solddate 2016-06-08 00:00:00 sellprice 35.85
+symbol JSLHISAR gainpct 1.05485232068 volratio 1.42738717165 buydate 2016-07-11 00:00:00 bought 48.8 solddate 2016-11-24 00:00:00 sellprice 84.8
+symbol JSLHISAR gainpct 3.49397590361 volratio 2.24284831695 buydate 2017-03-09 00:00:00 bought 128.5 solddate 2017-05-04 00:00:00 sellprice 129.5
+symbol JSLHISAR gainpct 0.747663551402 volratio 3.72335661931 buydate 2017-10-18 00:00:00 bought 217.25 solddate 2017-11-16 00:00:00 sellprice 201.05
+symbol JSL gainpct 3.0959752322 volratio 1.73482655311 buydate 2017-02-01 00:00:00 bought 50.15 solddate 2017-05-25 00:00:00 sellprice 70.1
+symbol JSL gainpct 3.68239355581 volratio 2.36173485611 buydate 2017-07-21 00:00:00 bought 90.5 solddate 2017-08-14 00:00:00 sellprice 78.8
+symbol JINDALSTEL gainpct 4.36078006501 buydate 2017-12-26 00:00:00 bought 195.0 didnt sell today sellprice 244.55
+symbol JCHAC gainpct 4.07218452381 volratio 3.18058381985 buydate 2017-03-29 00:00:00 bought 1750.0 solddate 2017-08-10 00:00:00 sellprice 1951.0
+symbol JUBLFOOD gainpct 1.74955808656 volratio 1.53283147795 buydate 2016-10-20 00:00:00 bought 1110.0 solddate 2016-10-27 00:00:00 sellprice 1040.5
+symbol JUBLFOOD gainpct 1.49035572356 buydate 2017-07-05 00:00:00 bought 1045.8 didnt sell today sellprice 1838.75
+symbol JUBILANT gainpct 4.76860273973 volratio 2.05565646071 buydate 2016-08-12 00:00:00 bought 386.75 solddate 2016-11-16 00:00:00 sellprice 581.25
+symbol JUSTDIAL gainpct 3.44401461423 volratio 1.81348186063 buydate 2015-11-26 00:00:00 bought 966.4 solddate 2015-12-04 00:00:00 sellprice 869.9
+symbol JUSTDIAL gainpct 2.27870813397 volratio 1.36883127009 buydate 2016-04-12 00:00:00 bought 871.8 solddate 2016-05-11 00:00:00 sellprice 705.0
+symbol JUSTDIAL gainpct 4.46914700544 volratio 1.79442836984 buydate 2017-02-17 00:00:00 bought 459.9 solddate 2017-04-18 00:00:00 sellprice 508.0
+symbol KPRMILL gainpct 3.55825609756 volratio 1.01477609757 buydate 2017-06-07 00:00:00 bought 860.0 solddate 2017-07-05 00:00:00 sellprice 775.55
+symbol KPIT gainpct 2.55720053836 buydate 2017-11-03 00:00:00 bought 151.0 didnt sell today sellprice 203.8
+symbol KRBL gainpct 3.92772903489 volratio 3.4326477685 buydate 2016-05-05 00:00:00 bought 254.2 solddate 2016-07-20 00:00:00 sellprice 269.0
+symbol KRBL gainpct 2.0145493043 volratio 1.47438927124 buydate 2017-01-16 00:00:00 bought 339.95 solddate 2017-05-25 00:00:00 sellprice 403.75
+symbol KAJARIACER gainpct 2.04641121495 volratio 1.29991450014 buydate 2017-01-19 00:00:00 bought 548.0 solddate 2017-03-14 00:00:00 sellprice 555.55
+symbol KAJARIACER gainpct 2.21374385018 volratio 1.19922782542 buydate 2017-04-11 00:00:00 bought 649.95 solddate 2017-06-28 00:00:00 sellprice 664.45
+symbol KALPATPOWR gainpct -2.37259090909 volratio 7.1123043266 buydate 2016-03-23 00:00:00 bought 216.0 solddate 2016-05-06 00:00:00 sellprice 203.0
+symbol KANSAINER gainpct 4.95468292683 volratio 1.04330904857 buydate 2017-05-15 00:00:00 bought 436.0 solddate 2017-09-26 00:00:00 sellprice 465.0
+symbol KANSAINER gainpct 1.29517253872 buydate 2017-12-21 00:00:00 bought 555.0 didnt sell today sellprice 563.9
+symbol KARURVYSYA gainpct 3.41906478925 volratio 1.94874322856 buydate 2017-06-16 00:00:00 bought 139.702 solddate 2017-08-11 00:00:00 sellprice 122.141
+symbol KSCL gainpct 3.15530848732 volratio 1.29862031053 buydate 2017-06-08 00:00:00 bought 670.25 solddate 2017-08-10 00:00:00 sellprice 592.0
+symbol KEC gainpct -2.61340140396 volratio 1.64899895232 buydate 2015-12-30 00:00:00 bought 154.8 solddate 2016-02-12 00:00:00 sellprice 103.2
+symbol KEC gainpct 3.89301775148 volratio 2.04270429004 buydate 2017-04-05 00:00:00 bought 221.0 solddate 2017-10-12 00:00:00 sellprice 306.1
+symbol KESORAMIND gainpct 2.14953271028 volratio 1.89989996277 buydate 2015-12-18 00:00:00 bought 112.95 solddate 2016-01-22 00:00:00 sellprice 95.1
+symbol KESORAMIND gainpct -1.42857142857 volratio 3.13795888336 buydate 2016-03-23 00:00:00 bought 103.5 solddate 2016-05-24 00:00:00 sellprice 107.0
+symbol KESORAMIND gainpct 3.39435545385 volratio 2.91131556082 buydate 2016-06-14 00:00:00 bought 136.5 solddate 2016-06-30 00:00:00 sellprice 135.75
+symbol KESORAMIND gainpct 3.125 volratio 1.85199104827 buydate 2016-10-04 00:00:00 bought 199.0 solddate 2016-11-07 00:00:00 sellprice 165.0
+symbol KITEX gainpct 0.252434092921 volratio 4.53112191453 buydate 2016-04-04 00:00:00 bought 346.321 solddate 2016-04-06 00:00:00 sellprice 321.357
+symbol KOTAKBANK gainpct 1.85245026178 volratio 1.85826001225 buydate 2017-05-15 00:00:00 bought 973.5 solddate 2017-08-22 00:00:00 sellprice 974.9
+symbol KWALITY gainpct 3.9101754386 volratio 2.40611119126 buydate 2015-11-27 00:00:00 bought 119.2 solddate 2016-01-14 00:00:00 sellprice 111.4
+symbol KWALITY gainpct 0.571977124183 volratio 1.74287602451 buydate 2016-08-22 00:00:00 bought 123.2 solddate 2016-11-07 00:00:00 sellprice 135.9
+symbol LTTS gainpct 4.33938183231 buydate 2017-11-14 00:00:00 bought 944.9 didnt sell today sellprice 1137.9
+symbol LICHSGFIN gainpct 4.51317087756 volratio 2.67361360473 buydate 2017-05-02 00:00:00 bought 703.25 solddate 2017-07-31 00:00:00 sellprice 714.9
+symbol LAXMIMACH gainpct 4.78221817972 volratio 2.53549396381 buydate 2017-04-17 00:00:00 bought 4632.9502 solddate 2017-09-26 00:00:00 sellprice 5630.0
+symbol LAKSHVILAS gainpct 3.78788971997 volratio 1.66276496094 buydate 2016-08-01 00:00:00 bought 130.862 solddate 2016-11-16 00:00:00 sellprice 139.215
+symbol LAKSHVILAS gainpct 1.28771130613 volratio 1.5699541607 buydate 2017-04-25 00:00:00 bought 185.528 solddate 2017-07-27 00:00:00 sellprice 170.771
+symbol LAKSHVILAS gainpct 2.06532473391 volratio 3.00634102932 buydate 2017-11-22 00:00:00 bought 168.915 solddate 2017-12-07 00:00:00 sellprice 150.55
+symbol LTI gainpct 4.90605649718 buydate 2017-11-09 00:00:00 bought 929.7 didnt sell today sellprice 1130.55

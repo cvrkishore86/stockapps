@@ -1,0 +1,98 @@
+<!doctype html>
+<meta http-equiv="refresh" >
+
+<head>
+<!-- <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+
+
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script> -->
+  <!-- Angular Material Library -->
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.css"/>
+    <!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.9/angular.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.js"></script>
+    <script src="https://rawgit.com/krispo/angular-nvd3/v1.0.4/dist/angular-nvd3.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.3/angular-ui-router.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular-sanitize.js"></script>
+  
+  
+  <link rel="stylesheet" href="nv.d3.css">
+  <!-- Angular Material Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script>
+
+<link href="bootstrap.min.css" rel="stylesheet">
+<link href="stockapp.css" rel="stylesheet">
+<link rel="stylesheet" href="fa/css/font-awesome.min.css">
+
+<script src="controller.js"></script>
+<script src="dirPagination.js"></script>
+<link rel="styleSheet" href="ui-grid.min.css"/>
+
+<script src="ui-grid.min.js"></script>
+
+
+
+</head>
+<title>stock data </title>
+<body  ng-app="stockangApp">
+<div ng-include="'header.html'"></div>
+    <div ng-controller="momentumCtrl">
+
+  
+
+      
+
+    <div ui-grid="gridOptions" ui-grid-pagination ui-grid-resize-columns style="height: 1000px"></div>
+
+  
+    <!-- <table class="table">
+    
+    <thead>
+
+    	<tr>
+
+      	<th ng-repeat="key in stockkeys" > 
+
+        <a href="#" ng-click="changesort(key)">
+            
+            <span  ng-show="sortType == key && !sortReverse" class="fa fa-caret-down"></span>
+            <span ng-show="sortType == key && sortReverse" class="fa fa-caret-up"></span>
+            {{key}}
+          </a></th>
+     		<th> 52 week High </th>
+    		<th> 52 Week High Date </th>
+    		<th> 52 Week Low </th>
+    		<th> 52 Week Low Date </th>
+    		
+    	</tr>
+    </thead>
+    <tr dir-paginate="stock in stocks | orderBy:sortType:sortReverse | filter:search| filter: searchStock |itemsPerPage:30">
+    
+      <td ng-repeat="key in stockkeys">{{ stock[key] }}</td>
+      
+ 
+
+
+    </tr>
+    
+    </table>
+ <dir-pagination-controls
+       
+       direction-links="true"
+       boundary-links="true" >
+    </dir-pagination-controls>
+ -->    
+  
+
+
+</body>

@@ -1,0 +1,58 @@
+// Downloaded From www.WiseStockTrader.com
+//////// start ///////////////
+// Translated by Panos Boufardeas 03-SEP-2010
+// Equis International, a Thomson Reuters company
+// INSYNC INDEX
+
+BOLInSLB = MA( C ,20 ) - 2 * ( StDev( C ,20 ) ) ;
+BOLInSUB = MA( C ,20 ) + 2 * ( StDev( C ,20 ) ) ;
+BOLInS2 = C - BOLInSLB / (BOLInSUB - BOLInSUB ) ;
+BOLInSLL = IIf( BOLInS2 < .05 ,-5 ,IIf( BOLInS2 > .95 ,5 ,0 ) ) ;
+
+CCIInS = IIf( CCI(14 ) > 100 ,5 ,IIf ( CCI(14 ) < -100 ,-5 ,0 ) );
+
+// EMV - Ease of Movement
+// Ease of Movement Formula 
+
+// Calculation The Ease of Movement should be accompanied with it's exponential moving average.
+EMVcalc = ( (H+L/2) - ( Ref(H,-1) + Ref(L,-1) ) /2 ) / (V / H-L) ;
+EMV= EMA(EMVcalc,10 );
+EMVInS2 = EMV - MA( EMV ,10 ) ;
+EMVInSB =IIf( EMVInS2 < 0 ,IIf( MA( EMV,10 ) < 0 ,-5 ,0 ) ,0 ) ;
+EMVInSS = IIf( EMVInS2> 0 ,IIf( MA( EMV ,10 ) > 0 ,5 ,0 ) ,0 ) ;
+
+// Macd
+MACDInS2 =MACD(12,25 ) - MA( MACD(12,25 ) ,9 );
+MACDinSB =IIf( MACDInS2 < 0, IIf( MA( MACD( ) ,10 ) < 0 ,-5 ,0 ) ,0 );
+MACDInSS = IIf(MACDInS2 > 0 ,IIf( MA( MACD( ) ,10 ) > 0 ,5 ,0 ) ,0 );
+
+// Money Flow index.
+MFIInS =IIf( MFI( 20 ) > 80 ,5 , IIf( MFI( 20 ) < 20 ,-5 ,0 ) );
+
+// PDO - Detrended Price Oscillator
+PDO= C-Ref(MA(C,18),-(18/2)+1); // PDO modify
+PDOInS2 =PDO - MA( PDO ,10 );
+PDOInSB = IIf( PDOInS2 < 0 ,IIf( MA( PDO ,10 ) <0 ,-5 ,0 ) ,0 );
+PDOInSS =IIf( PDOInS2 > 0 ,IIf( MA( PDO ,10 ) > 0 ,5 ,0 ) ,0 );
+
+// ROC in points
+// ROCInS2 = ROC( C ,10 ,$ ) - Mov( ROC( C ,10 ,$ ) ,10 ,S )
+ROCInS2 = ROC( C ,10 ) - MA( ROC( C ,10 ) ,10 ); //<< need to correct
+//ROCInSB = IIf( ROCInS2 < 0 ,IIf( MA( ROC( C ,10 ,$ ) ,10 ) < 0 ,-5 ,0 ) ,0 )
+ROCInSB = IIf( ROCInS2 < 0 ,IIf( MA( ROC( C ,10 ) ,10 ) < 0 ,-5 ,0 ) ,0 );
+// ROCInSS Index = IIf( ROCInS2 > 0 ,IIf( MA( ROC( C ,10 ,$ ) ,10 ) > 0 ,5 ,0 ) ,0 )
+ROCInSS_Index = IIf( ROCInS2 > 0 ,IIf( MA( ROC( C ,10 ) ,10 ) > 0 ,5 ,0 ) ,0 );
+
+// RSI
+RSIInS = IIf( RSI(14 ) > 70 ,5 ,IIf( RSI(14 ) < 30 ,-5 ,0 ) );
+
+// Stochastic
+STOdInS = IIf( StochD(14 ,3 ) > 80 ,5 ,IIf( StochD(14 ,3 ) < 20 ,-5 ,0 ) );
+STOkInS =IIf( StochK(14 ,1) > 80 ,5 ,IIf( StochK(14 ,1 ) < 20 ,-5 ,0 ) );
+
+InSync_Index = 50+ CCIInS+ BOLInSLL + RSIInS + STOkInS + STOdInS + 
+MFIInS + EMVInSB + EMVInSS + ROCInSS_Index+ ROCInSB
++ Ref (PDOInSS ,-10 ) + Ref (PDOInSB ,-10 ) +MACDInSS + MACDInSB ;
+
+Plot(InSync_Index,"InSync Index", 6,1);
+Plot(20,"",2); Plot(75,"",2); Plot(50,"",5);

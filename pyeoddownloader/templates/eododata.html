@@ -1,0 +1,54 @@
+<!doctype html>
+<meta http-equiv="refresh" >
+
+<head>
+<link href="static/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="static/font-awesome.min.css">
+<script src="static/angular.min.js"></script>
+<script src="static/controller.js"></script>
+
+
+
+
+</head>
+<title>Simple tables</title>
+<body  ng-app="stockangApp">
+    <div class="container" ng-controller="stockListCtrl">
+      
+        <div class="bs-example" data-example-id="panel-without-body-with-table">
+            <div class="panel panel-default">
+      
+
+  
+  
+    <table class="table">
+    <thead>
+    	<tr>
+      	<th>SYMBOL</th>
+    		<th> 52 week High </th>
+    		<th> 52 Week High Date </th>
+    		<th> 52 Week Low </th>
+    		<th> 52 Week Low Date </th>
+    		
+    	</tr>
+    </thead>
+    
+    <tr ng-repeat="stock in stocks">
+      <td>{{ '{{stock.SYMBOL}}' }}</td>
+      <td>{{ '{{stock.YEAR_HIGH}}' }}</td>
+      <td>{{ '{{stock.YEAR_HIGH_DT}}' }}</td>
+      <td>{{ '{{stock.YEAR_LOW}}' }}</td>
+      <td>{{ '{{stock.YEAR_LOW_DT}}' }}</td>
+      
+ 
+
+
+    </tr>
+    
+    </table>
+
+    
+  
+</div></div>
+
+</body>

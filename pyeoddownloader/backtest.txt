@@ -1,0 +1,2236 @@
+74.90525602351379
+For 0
+For 1
+For 2
+For 3
+For 4
+For 5
+For 6
+For 7
+For 8
+For 9
+For 10
+For 11
+For 12
+For 13
+For 14
+For 15
+bought  ACCELYA on  2017-02-03 00:00:00  at  1610.25
+sold  ACCELYA on  2017-03-01 00:00:00  at  1456.75
+For 16
+For 17
+For 18
+bought  ADANIENT on  2017-04-07 00:00:00  at  117.4
+sold  ADANIENT on  2017-08-09 00:00:00  at  124.25
+For 19
+For 20
+bought  ADANIPOWER on  2017-02-07 00:00:00  at  36.45
+sold  ADANIPOWER on  2017-04-12 00:00:00  at  33.9
+For 21
+For 22
+bought  ADFFOODS on  2017-05-16 00:00:00  at  299.25
+sold  ADFFOODS on  2017-07-26 00:00:00  at  233.25
+For 23
+For 24
+For 25
+For 26
+For 27
+For 28
+For 29
+For 30
+For 31
+For 32
+bought  AGARIND on  2016-10-20 00:00:00  at  288.85
+For 33
+For 34
+For 35
+For 36
+bought  AHLEAST on  2016-11-02 00:00:00  at  218.55
+sold  AHLEAST on  2016-11-15 00:00:00  at  196.0
+bought  AHLEAST on  2017-04-19 00:00:00  at  269.0
+sold  AHLEAST on  2017-08-10 00:00:00  at  270.25
+For 37
+For 38
+For 39
+For 40
+For 41
+For 42
+For 43
+For 44
+For 45
+For 46
+For 47
+For 48
+For 49
+For 50
+For 51
+For 52
+bought  ALKEM on  2016-07-01 00:00:00  at  1367.25
+sold  ALKEM on  2016-11-07 00:00:00  at  1565.05
+bought  ALKEM on  2017-02-17 00:00:00  at  2001.5
+sold  ALKEM on  2017-04-27 00:00:00  at  1924.0
+For 53
+bought  ALKYLAMINE on  2016-06-28 00:00:00  at  370.0
+sold  ALKYLAMINE on  2016-08-01 00:00:00  at  320.35
+For 54
+For 55
+For 56
+bought  ALMONDZ on  2017-02-07 00:00:00  at  17.75
+sold  ALMONDZ on  2017-02-23 00:00:00  at  14.15
+For 57
+For 58
+For 59
+For 60
+For 61
+For 62
+For 63
+bought  AMBUJACEM on  2016-07-15 00:00:00  at  260.85
+sold  AMBUJACEM on  2016-09-29 00:00:00  at  254.5
+For 64
+For 65
+For 66
+For 67
+For 68
+For 69
+For 70
+For 71
+For 72
+For 73
+For 74
+For 75
+For 76
+For 77
+bought  APARINDS on  2017-03-07 00:00:00  at  742.9
+sold  APARINDS on  2017-06-23 00:00:00  at  755.4
+For 78
+For 79
+bought  APLAPOLLO on  2016-06-08 00:00:00  at  905.85
+sold  APLAPOLLO on  2016-09-21 00:00:00  at  892.1
+For 80
+For 81
+For 82
+For 83
+For 84
+For 85
+For 86
+For 87
+For 88
+For 89
+For 90
+For 91
+For 92
+For 93
+For 94
+For 95
+For 96
+bought  ASAHISONG on  2017-05-02 00:00:00  at  324.5
+sold  ASAHISONG on  2017-08-10 00:00:00  at  284.65
+For 97
+For 98
+For 99
+For 100
+For 101
+For 102
+For 103
+For 104
+For 105
+bought  ASIANTILES on  2016-09-19 00:00:00  at  268.55
+sold  ASIANTILES on  2016-11-11 00:00:00  at  231.3
+For 106
+For 107
+For 108
+For 109
+For 110
+For 111
+For 112
+For 113
+For 114
+For 115
+For 116
+For 117
+For 118
+bought  AUSOMENT on  2017-09-08 00:00:00  at  32.1
+For 119
+For 120
+For 121
+For 122
+For 123
+For 124
+For 125
+For 126
+For 127
+For 128
+For 129
+For 130
+For 131
+For 132
+bought  BAJAJELEC on  2017-03-09 00:00:00  at  282.45
+sold  BAJAJELEC on  2017-08-01 00:00:00  at  323.05
+For 133
+For 134
+For 135
+bought  BAJAJHLDNG on  2017-08-02 00:00:00  at  2413.35
+For 136
+For 137
+For 138
+For 139
+For 140
+For 141
+For 142
+For 143
+For 144
+For 145
+bought  BANARISUG on  2016-06-28 00:00:00  at  2166.15
+sold  BANARISUG on  2016-11-15 00:00:00  at  1852.25
+bought  BANARISUG on  2017-09-22 00:00:00  at  2232.05
+For 146
+For 147
+For 148
+For 149
+For 150
+For 151
+For 152
+bought  BASF on  2017-01-31 00:00:00  at  1306.0
+sold  BASF on  2017-02-27 00:00:00  at  1142.95
+For 153
+bought  BASML on  2016-08-09 00:00:00  at  315.5
+sold  BASML on  2016-11-15 00:00:00  at  287.0
+For 154
+For 155
+For 156
+For 157
+For 158
+For 159
+For 160
+For 161
+For 162
+bought  BERGEPAINT on  2016-06-02 00:00:00  at  285.05
+sold  BERGEPAINT on  2016-07-15 00:00:00  at  223.35
+For 163
+For 164
+For 165
+For 166
+For 167
+For 168
+For 169
+For 170
+For 171
+For 172
+For 173
+For 174
+For 175
+For 176
+For 177
+For 178
+For 179
+For 180
+For 181
+For 182
+For 183
+bought  BLISSGVS on  2016-08-31 00:00:00  at  149.05
+sold  BLISSGVS on  2016-11-15 00:00:00  at  129.75
+For 184
+For 185
+For 186
+For 187
+bought  BLUESTARCO on  2016-09-26 00:00:00  at  538.25
+sold  BLUESTARCO on  2016-11-15 00:00:00  at  471.1
+For 188
+For 189
+For 190
+For 191
+bought  BOSCHLTD on  2016-07-21 00:00:00  at  24528.65
+sold  BOSCHLTD on  2016-09-26 00:00:00  at  22844.7
+For 192
+For 193
+For 194
+For 195
+bought  BRIGADE on  2017-03-06 00:00:00  at  181.95
+sold  BRIGADE on  2017-09-22 00:00:00  at  252.15
+For 196
+For 197
+For 198
+bought  BSELINFRA on  2017-04-07 00:00:00  at  6.7
+sold  BSELINFRA on  2017-06-08 00:00:00  at  4.15
+For 199
+For 200
+For 201
+For 202
+For 203
+For 204
+bought  BUTTERFLY on  2017-11-10 00:00:00  at  346.65
+For 205
+For 206
+For 207
+For 208
+bought  CAIRN on  2016-07-26 00:00:00  at  196.55
+For 209
+For 210
+For 211
+For 212
+bought  CANFINHOME on  2016-08-30 00:00:00  at  1496.85
+sold  CANFINHOME on  2016-11-15 00:00:00  at  1259.9
+For 213
+For 214
+bought  CAPF on  2016-06-01 00:00:00  at  556.05
+sold  CAPF on  2016-11-04 00:00:00  at  659.55
+For 215
+For 216
+For 217
+For 218
+For 219
+For 220
+For 221
+For 222
+For 223
+bought  CCL on  2017-03-02 00:00:00  at  363.75
+sold  CCL on  2017-05-23 00:00:00  at  310.5
+For 224
+bought  CEATLTD on  2017-05-04 00:00:00  at  1621.95
+sold  CEATLTD on  2017-08-09 00:00:00  at  1689.6
+For 225
+For 226
+For 227
+For 228
+bought  CENTENKA on  2017-04-10 00:00:00  at  439.6
+sold  CENTENKA on  2017-06-27 00:00:00  at  363.95
+For 229
+For 230
+bought  CENTRALBK on  2016-06-16 00:00:00  at  93.5
+sold  CENTRALBK on  2016-09-29 00:00:00  at  92.4
+For 231
+For 232
+For 233
+For 234
+bought  CERA on  2016-07-07 00:00:00  at  2459.7
+sold  CERA on  2016-11-10 00:00:00  at  2392.6
+bought  CERA on  2017-11-20 00:00:00  at  3620.4
+For 235
+For 236
+For 237
+For 238
+For 239
+For 240
+For 241
+For 242
+For 243
+For 244
+For 245
+For 246
+For 247
+For 248
+For 249
+For 250
+For 251
+For 252
+For 253
+For 254
+For 255
+For 256
+For 257
+For 258
+For 259
+For 260
+For 261
+bought  COX&KINGS on  2017-02-09 00:00:00  at  199.75
+sold  COX&KINGS on  2017-02-16 00:00:00  at  191.75
+bought  COX&KINGS on  2017-03-31 00:00:00  at  231.2
+sold  COX&KINGS on  2017-05-23 00:00:00  at  207.4
+For 262
+bought  CPSEETF on  2016-07-27 00:00:00  at  22.5
+sold  CPSEETF on  2017-06-02 00:00:00  at  28.22
+bought  CPSEETF on  2017-11-03 00:00:00  at  30.84
+For 263
+For 264
+For 265
+For 266
+For 267
+For 268
+For 269
+For 270
+For 271
+For 272
+For 273
+For 274
+For 275
+bought  DALMIABHA on  2016-06-30 00:00:00  at  1196.75
+sold  DALMIABHA on  2016-11-15 00:00:00  at  1595.5
+For 276
+For 277
+For 278
+For 279
+For 280
+For 281
+For 282
+For 283
+For 284
+For 285
+bought  DECCANCE on  2016-07-08 00:00:00  at  1066.7
+sold  DECCANCE on  2016-11-09 00:00:00  at  987.7
+For 286
+bought  DEEPAKFERT on  2017-01-16 00:00:00  at  281.15
+sold  DEEPAKFERT on  2017-05-22 00:00:00  at  249.25
+For 287
+For 288
+For 289
+For 290
+For 291
+For 292
+For 293
+For 294
+bought  DHAMPURSUG on  2017-02-13 00:00:00  at  200.55
+sold  DHAMPURSUG on  2017-05-29 00:00:00  at  191.15
+For 295
+For 296
+bought  DHANUKA on  2017-01-11 00:00:00  at  786.2
+sold  DHANUKA on  2017-01-31 00:00:00  at  687.45
+bought  DHANUKA on  2017-05-03 00:00:00  at  897.2
+sold  DHANUKA on  2017-05-22 00:00:00  at  794.15
+For 297
+For 298
+bought  DHFL on  2017-05-03 00:00:00  at  444.4
+sold  DHFL on  2017-08-10 00:00:00  at  406.35
+bought  DHFL on  2017-09-07 00:00:00  at  550.95
+For 299
+For 300
+For 301
+For 302
+For 303
+For 304
+For 305
+For 306
+For 307
+For 308
+For 309
+For 310
+For 311
+For 312
+For 313
+For 314
+bought  DRREDDY on  2016-07-14 00:00:00  at  3583.2
+sold  DRREDDY on  2016-07-27 00:00:00  at  2980.2
+For 315
+For 316
+For 317
+For 318
+For 319
+For 320
+For 321
+For 322
+bought  ECEIND on  2016-06-06 00:00:00  at  193.75
+sold  ECEIND on  2016-11-17 00:00:00  at  285.05
+For 323
+For 324
+bought  EDELWEISS on  2016-06-21 00:00:00  at  79.9
+sold  EDELWEISS on  2016-11-11 00:00:00  at  104.15
+bought  EDELWEISS on  2017-02-27 00:00:00  at  142.45
+For 325
+For 326
+For 327
+For 328
+For 329
+For 330
+For 331
+For 332
+For 333
+For 334
+For 335
+For 336
+bought  ELGIEQUIP on  2017-02-15 00:00:00  at  205.45
+sold  ELGIEQUIP on  2017-05-02 00:00:00  at  202.7
+For 337
+bought  ELGIRUBCO on  2017-01-12 00:00:00  at  45.7
+sold  ELGIRUBCO on  2017-05-23 00:00:00  at  48.75
+For 338
+For 339
+For 340
+For 341
+For 342
+For 343
+bought  ENERGYDEV on  2016-09-06 00:00:00  at  178.3
+sold  ENERGYDEV on  2016-11-07 00:00:00  at  165.8
+For 344
+For 345
+For 346
+For 347
+For 348
+For 349
+For 350
+For 351
+For 352
+For 353
+For 354
+For 355
+For 356
+For 357
+For 358
+For 359
+bought  EVEREADY on  2016-07-13 00:00:00  at  277.15
+sold  EVEREADY on  2016-07-29 00:00:00  at  249.55
+bought  EVEREADY on  2017-07-04 00:00:00  at  349.5
+sold  EVEREADY on  2017-07-31 00:00:00  at  307.8
+For 360
+For 361
+For 362
+For 363
+For 364
+bought  EXCELINDUS on  2016-10-27 00:00:00  at  444.5
+sold  EXCELINDUS on  2016-12-16 00:00:00  at  361.5
+For 365
+bought  EXIDEIND on  2016-06-01 00:00:00  at  158.9
+sold  EXIDEIND on  2016-11-11 00:00:00  at  181.05
+For 366
+For 367
+bought  FAGBEARING on  2017-04-12 00:00:00  at  4672.8
+sold  FAGBEARING on  2017-06-30 00:00:00  at  4448.05
+For 368
+For 369
+For 370
+For 371
+For 372
+For 373
+For 374
+For 375
+For 376
+For 377
+For 378
+For 379
+bought  FINPIPE on  2017-10-27 00:00:00  at  708.45
+sold  FINPIPE on  2017-11-15 00:00:00  at  629.55
+For 380
+For 381
+For 382
+bought  FLFL on  2017-03-23 00:00:00  at  234.95
+sold  FLFL on  2017-09-27 00:00:00  at  320.15
+For 383
+For 384
+For 385
+For 386
+For 387
+For 388
+For 389
+For 390
+For 391
+bought  GAEL on  2017-02-14 00:00:00  at  116.2
+sold  GAEL on  2017-07-31 00:00:00  at  119.65
+For 392
+For 393
+For 394
+For 395
+For 396
+For 397
+For 398
+For 399
+For 400
+For 401
+For 402
+For 403
+bought  GARWALLROP on  2016-07-13 00:00:00  at  414.05
+For 404
+For 405
+For 406
+For 407
+For 408
+For 409
+For 410
+bought  GENESYS on  2016-07-08 00:00:00  at  68.55
+sold  GENESYS on  2016-08-03 00:00:00  at  58.5
+For 411
+For 412
+bought  GENUSPOWER on  2017-07-13 00:00:00  at  50.95
+sold  GENUSPOWER on  2017-08-10 00:00:00  at  46.0
+For 413
+For 414
+For 415
+For 416
+For 417
+For 418
+For 419
+For 420
+For 421
+For 422
+For 423
+For 424
+For 425
+For 426
+For 427
+For 428
+For 429
+For 430
+For 431
+For 432
+For 433
+bought  GOACARBON on  2017-09-08 00:00:00  at  375.0
+For 434
+For 435
+For 436
+For 437
+bought  GODREJIND on  2016-07-15 00:00:00  at  415.55
+sold  GODREJIND on  2016-11-04 00:00:00  at  416.4
+bought  GODREJIND on  2017-02-13 00:00:00  at  516.15
+sold  GODREJIND on  2017-08-10 00:00:00  at  576.7
+For 438
+For 439
+For 440
+For 441
+For 442
+For 443
+For 444
+For 445
+For 446
+For 447
+For 448
+For 449
+For 450
+For 451
+For 452
+For 453
+For 454
+For 455
+For 456
+For 457
+For 458
+For 459
+For 460
+For 461
+For 462
+For 463
+For 464
+For 465
+For 466
+bought  GSS on  2017-11-08 00:00:00  at  26.25
+sold  GSS on  2017-11-20 00:00:00  at  24.0
+For 467
+For 468
+For 469
+For 470
+For 471
+For 472
+For 473
+bought  GUJALKALI on  2017-10-19 00:00:00  at  648.5
+For 474
+For 475
+For 476
+bought  GUJGASLTD on  2017-04-28 00:00:00  at  844.65
+sold  GUJGASLTD on  2017-11-20 00:00:00  at  833.9
+For 477
+For 478
+For 479
+For 480
+For 481
+For 482
+For 483
+For 484
+For 485
+For 486
+For 487
+bought  HATSUN on  2017-04-26 00:00:00  at  623.8
+For 488
+For 489
+For 490
+For 491
+For 492
+For 493
+For 494
+For 495
+bought  HDFC on  2016-06-03 00:00:00  at  1254.9
+sold  HDFC on  2016-10-14 00:00:00  at  1316.05
+For 496
+bought  HDFCBANK on  2017-05-19 00:00:00  at  1561.25
+For 497
+For 498
+For 499
+For 500
+bought  HEG on  2017-11-03 00:00:00  at  1840.35
+For 501
+For 502
+For 503
+For 504
+For 505
+bought  HESTERBIO on  2017-02-03 00:00:00  at  773.5
+sold  HESTERBIO on  2017-03-14 00:00:00  at  741.5
+For 506
+bought  HEXATRADEX on  2016-11-03 00:00:00  at  18.65
+sold  HEXATRADEX on  2016-11-09 00:00:00  at  16.5
+For 507
+For 508
+For 509
+For 510
+For 511
+For 512
+For 513
+bought  HIMATSEIDE on  2017-01-27 00:00:00  at  334.85
+sold  HIMATSEIDE on  2017-05-22 00:00:00  at  326.6
+For 514
+For 515
+For 516
+For 517
+For 518
+For 519
+For 520
+For 521
+For 522
+For 523
+For 524
+bought  HINDUJAVEN on  2016-10-25 00:00:00  at  526.75
+sold  HINDUJAVEN on  2017-03-27 00:00:00  at  502.3
+For 525
+bought  HINDUNILVR on  2017-05-31 00:00:00  at  1067.0
+For 526
+bought  HINDZINC on  2016-08-08 00:00:00  at  220.95
+sold  HINDZINC on  2017-04-07 00:00:00  at  283.95
+For 527
+For 528
+For 529
+For 530
+For 531
+For 532
+For 533
+For 534
+For 535
+bought  HONAUT on  2017-02-03 00:00:00  at  9558.2
+For 536
+For 537
+For 538
+For 539
+For 540
+For 541
+For 542
+For 543
+bought  IBREALEST on  2017-08-18 00:00:00  at  229.55
+sold  IBREALEST on  2017-09-25 00:00:00  at  201.5
+For 544
+bought  IBULHSGFIN on  2017-03-20 00:00:00  at  963.7
+sold  IBULHSGFIN on  2017-11-07 00:00:00  at  1195.2
+For 545
+bought  IBVENTURES on  2017-04-12 00:00:00  at  81.9
+For 546
+For 547
+For 548
+For 549
+For 550
+For 551
+For 552
+For 553
+For 554
+For 555
+For 556
+bought  IDFCBANK on  2016-09-29 00:00:00  at  78.0
+sold  IDFCBANK on  2016-12-07 00:00:00  at  65.05
+For 557
+For 558
+bought  IFBIND on  2017-02-22 00:00:00  at  641.45
+sold  IFBIND on  2017-08-10 00:00:00  at  647.0
+bought  IFBIND on  2017-11-15 00:00:00  at  1180.6
+For 559
+For 560
+For 561
+For 562
+For 563
+For 564
+For 565
+For 566
+For 567
+For 568
+For 569
+bought  IMFA on  2016-07-12 00:00:00  at  147.15
+sold  IMFA on  2017-04-12 00:00:00  at  585.8
+For 570
+For 571
+For 572
+For 573
+For 574
+For 575
+For 576
+bought  INDIANB on  2016-07-18 00:00:00  at  159.5
+sold  INDIANB on  2016-12-21 00:00:00  at  212.0
+For 577
+For 578
+bought  INDIANHUME on  2016-07-29 00:00:00  at  537.2
+sold  INDIANHUME on  2016-12-09 00:00:00  at  400.4
+For 579
+For 580
+For 581
+For 582
+For 583
+For 584
+For 585
+For 586
+For 587
+For 588
+For 589
+bought  INDTERRAIN on  2016-08-01 00:00:00  at  167.75
+sold  INDTERRAIN on  2016-08-12 00:00:00  at  146.75
+For 590
+bought  INDUSINDBK on  2017-02-06 00:00:00  at  1317.05
+sold  INDUSINDBK on  2017-10-25 00:00:00  at  1592.4
+For 591
+For 592
+For 593
+For 594
+For 595
+For 596
+For 597
+For 598
+For 599
+For 600
+For 601
+For 602
+bought  INVENTURE on  2017-01-30 00:00:00  at  18.8
+sold  INVENTURE on  2017-02-16 00:00:00  at  17.0
+For 603
+For 604
+For 605
+bought  IOLCP on  2016-06-01 00:00:00  at  127.6
+sold  IOLCP on  2016-08-04 00:00:00  at  119.1
+For 606
+For 607
+For 608
+For 609
+For 610
+bought  ISMTLTD on  2017-01-27 00:00:00  at  11.9
+sold  ISMTLTD on  2017-05-22 00:00:00  at  12.25
+For 611
+For 612
+For 613
+For 614
+For 615
+For 616
+For 617
+For 618
+For 619
+For 620
+For 621
+bought  JAIBALAJI on  2017-04-07 00:00:00  at  21.5
+sold  JAIBALAJI on  2017-05-31 00:00:00  at  16.0
+For 622
+For 623
+For 624
+For 625
+For 626
+For 627
+For 628
+For 629
+For 630
+For 631
+For 632
+For 633
+For 634
+For 635
+For 636
+For 637
+For 638
+For 639
+For 640
+For 641
+For 642
+For 643
+For 644
+bought  JKCEMENT on  2017-05-25 00:00:00  at  1097.1
+sold  JKCEMENT on  2017-06-27 00:00:00  at  946.75
+For 645
+For 646
+bought  JKLAKSHMI on  2016-09-27 00:00:00  at  489.75
+sold  JKLAKSHMI on  2016-11-09 00:00:00  at  439.7
+For 647
+For 648
+For 649
+bought  JMA on  2016-06-30 00:00:00  at  196.15
+sold  JMA on  2016-09-15 00:00:00  at  191.25
+For 650
+bought  JMCPROJECT on  2016-06-01 00:00:00  at  277.4
+sold  JMCPROJECT on  2016-06-23 00:00:00  at  239.45
+For 651
+bought  JMFINANCIL on  2017-09-07 00:00:00  at  146.05
+For 652
+For 653
+For 654
+For 655
+For 656
+For 657
+For 658
+For 659
+For 660
+For 661
+bought  JSWSTEEL on  2016-07-18 00:00:00  at  1606.05
+sold  JSWSTEEL on  2016-10-27 00:00:00  at  1636.95
+For 662
+For 663
+bought  JUBLFOOD on  2017-07-18 00:00:00  at  1325.1
+For 664
+For 665
+For 666
+For 667
+For 668
+For 669
+For 670
+For 671
+bought  KAJARIACER on  2016-06-10 00:00:00  at  1149.15
+sold  KAJARIACER on  2016-10-04 00:00:00  at  699.35
+For 672
+bought  KAKATCEM on  2016-06-02 00:00:00  at  470.95
+sold  KAKATCEM on  2016-08-02 00:00:00  at  371.4
+For 673
+For 674
+For 675
+For 676
+For 677
+For 678
+For 679
+For 680
+For 681
+For 682
+For 683
+bought  KAYA on  2017-05-31 00:00:00  at  1071.6
+sold  KAYA on  2017-07-26 00:00:00  at  933.2
+For 684
+For 685
+For 686
+For 687
+For 688
+For 689
+For 690
+For 691
+For 692
+For 693
+For 694
+bought  KICL on  2017-02-08 00:00:00  at  1453.85
+sold  KICL on  2017-08-10 00:00:00  at  1722.7
+For 695
+For 696
+For 697
+For 698
+bought  KIRLOSBROS on  2017-03-06 00:00:00  at  258.25
+sold  KIRLOSBROS on  2017-07-28 00:00:00  at  243.35
+For 699
+For 700
+bought  KIRLOSIND on  2016-06-13 00:00:00  at  718.0
+sold  KIRLOSIND on  2016-11-15 00:00:00  at  817.1
+For 701
+For 702
+For 703
+For 704
+For 705
+For 706
+For 707
+For 708
+For 709
+For 710
+For 711
+For 712
+For 713
+For 714
+For 715
+For 716
+For 717
+bought  KPRMILL on  2016-06-03 00:00:00  at  953.45
+sold  KPRMILL on  2016-10-13 00:00:00  at  1048.05
+For 718
+bought  KRBL on  2016-06-01 00:00:00  at  272.35
+sold  KRBL on  2016-07-28 00:00:00  at  261.3
+For 719
+For 720
+For 721
+For 722
+For 723
+For 724
+bought  KTIL on  2016-07-12 00:00:00  at  609.3
+sold  KTIL on  2016-08-11 00:00:00  at  266.5
+For 725
+For 726
+For 727
+For 728
+For 729
+For 730
+bought  LAKSHVILAS on  2016-08-17 00:00:00  at  146.65
+sold  LAKSHVILAS on  2016-11-21 00:00:00  at  131.8
+For 731
+For 732
+For 733
+For 734
+For 735
+For 736
+For 737
+For 738
+bought  LICHSGFIN on  2017-04-25 00:00:00  at  674.35
+sold  LICHSGFIN on  2017-07-31 00:00:00  at  690.45
+For 739
+For 740
+For 741
+For 742
+For 743
+For 744
+For 745
+For 746
+For 747
+For 748
+For 749
+For 750
+bought  LPDC on  2016-07-13 00:00:00  at  4.15
+sold  LPDC on  2016-08-09 00:00:00  at  3.8
+For 751
+For 752
+For 753
+bought  LUMAXIND on  2016-06-07 00:00:00  at  580.8
+sold  LUMAXIND on  2016-11-15 00:00:00  at  751.4
+bought  LUMAXIND on  2017-11-10 00:00:00  at  1985.0
+For 754
+For 755
+For 756
+For 757
+For 758
+For 759
+For 760
+For 761
+For 762
+For 763
+For 764
+For 765
+For 766
+For 767
+For 768
+bought  MAGMA on  2017-07-26 00:00:00  at  166.0
+sold  MAGMA on  2017-11-07 00:00:00  at  165.3
+For 769
+For 770
+For 771
+For 772
+For 773
+bought  MAHSCOOTER on  2016-10-21 00:00:00  at  1960.75
+sold  MAHSCOOTER on  2016-11-15 00:00:00  at  1514.5
+bought  MAHSCOOTER on  2017-09-11 00:00:00  at  3253.25
+For 774
+For 775
+bought  MAITHANALL on  2017-02-02 00:00:00  at  381.1
+sold  MAITHANALL on  2017-05-22 00:00:00  at  404.2
+For 776
+For 777
+bought  MALUPAPER on  2016-06-29 00:00:00  at  13.85
+sold  MALUPAPER on  2016-11-22 00:00:00  at  24.55
+For 778
+bought  MANAKALUCO on  2016-10-14 00:00:00  at  5.75
+sold  MANAKALUCO on  2016-11-10 00:00:00  at  5.05
+bought  MANAKALUCO on  2017-07-13 00:00:00  at  8.65
+For 779
+For 780
+For 781
+bought  MANAKSIA on  2016-11-04 00:00:00  at  59.0
+sold  MANAKSIA on  2016-11-21 00:00:00  at  48.0
+For 782
+For 783
+For 784
+For 785
+For 786
+For 787
+For 788
+For 789
+For 790
+For 791
+For 792
+For 793
+For 794
+For 795
+For 796
+For 797
+bought  MARUTI on  2016-07-29 00:00:00  at  4757.6
+sold  MARUTI on  2016-11-11 00:00:00  at  5134.25
+For 798
+For 799
+For 800
+For 801
+For 802
+For 803
+For 804
+For 805
+For 806
+For 807
+For 808
+For 809
+For 810
+bought  MEGH on  2016-06-07 00:00:00  at  40.4
+sold  MEGH on  2016-09-01 00:00:00  at  38.95
+For 811
+For 812
+For 813
+For 814
+For 815
+For 816
+For 817
+For 818
+For 819
+For 820
+For 821
+For 822
+For 823
+For 824
+For 825
+For 826
+For 827
+For 828
+For 829
+For 830
+For 831
+For 832
+For 833
+For 834
+For 835
+For 836
+bought  MOTHERSUMI on  2016-08-02 00:00:00  at  346.2
+sold  MOTHERSUMI on  2016-11-03 00:00:00  at  314.05
+bought  MOTHERSUMI on  2017-05-16 00:00:00  at  418.8
+sold  MOTHERSUMI on  2017-07-05 00:00:00  at  305.45
+For 837
+For 838
+bought  MPHASIS on  2017-06-05 00:00:00  at  608.45
+sold  MPHASIS on  2017-07-14 00:00:00  at  576.6
+For 839
+For 840
+bought  MRF on  2016-09-29 00:00:00  at  48605.6
+sold  MRF on  2017-08-10 00:00:00  at  64100.7
+For 841
+For 842
+For 843
+For 844
+For 845
+For 846
+For 847
+For 848
+For 849
+For 850
+bought  MUNJALSHOW on  2017-09-14 00:00:00  at  276.1
+For 851
+For 852
+For 853
+For 854
+For 855
+For 856
+For 857
+For 858
+For 859
+bought  NAHARCAP on  2016-07-13 00:00:00  at  79.55
+sold  NAHARCAP on  2016-11-21 00:00:00  at  82.1
+For 860
+bought  NAHARINDUS on  2016-06-01 00:00:00  at  72.05
+sold  NAHARINDUS on  2016-11-11 00:00:00  at  101.35
+For 861
+For 862
+For 863
+For 864
+For 865
+For 866
+For 867
+For 868
+For 869
+For 870
+For 871
+For 872
+For 873
+For 874
+bought  NCLIND on  2017-04-06 00:00:00  at  214.3
+sold  NCLIND on  2017-07-31 00:00:00  at  195.65
+For 875
+For 876
+For 877
+For 878
+For 879
+For 880
+For 881
+For 882
+For 883
+For 884
+For 885
+For 886
+For 887
+For 888
+For 889
+For 890
+For 891
+For 892
+For 893
+For 894
+For 895
+For 896
+For 897
+For 898
+For 899
+For 900
+For 901
+For 902
+For 903
+For 904
+For 905
+For 906
+For 907
+For 908
+For 909
+bought  NTPC on  2016-06-21 00:00:00  at  151.8
+sold  NTPC on  2016-09-26 00:00:00  at  152.15
+For 910
+For 911
+For 912
+For 913
+bought  OCL on  2016-06-21 00:00:00  at  615.7
+sold  OCL on  2016-11-15 00:00:00  at  774.4
+For 914
+bought  OFSS on  2017-02-07 00:00:00  at  3638.5
+sold  OFSS on  2017-04-19 00:00:00  at  3556.6
+For 915
+bought  OIL on  2017-10-09 00:00:00  at  345.4
+For 916
+For 917
+For 918
+For 919
+For 920
+For 921
+For 922
+For 923
+For 924
+bought  ONGC on  2016-10-21 00:00:00  at  279.8
+sold  ONGC on  2016-12-15 00:00:00  at  206.45
+For 925
+For 926
+For 927
+For 928
+For 929
+For 930
+For 931
+For 932
+For 933
+For 934
+For 935
+For 936
+For 937
+For 938
+For 939
+For 940
+For 941
+For 942
+For 943
+For 944
+bought  PAGEIND on  2017-11-07 00:00:00  at  20545.4
+For 945
+For 946
+For 947
+bought  PANAMAPET on  2016-08-25 00:00:00  at  69.05
+sold  PANAMAPET on  2017-10-03 00:00:00  at  170.45
+For 948
+For 949
+For 950
+For 951
+For 952
+For 953
+For 954
+For 955
+For 956
+For 957
+For 958
+For 959
+bought  PCJEWELLER on  2016-08-12 00:00:00  at  424.55
+sold  PCJEWELLER on  2016-11-09 00:00:00  at  436.65
+For 960
+For 961
+For 962
+For 963
+For 964
+bought  PEARLPOLY on  2016-12-27 00:00:00  at  22.85
+sold  PEARLPOLY on  2017-09-27 00:00:00  at  32.55
+For 965
+For 966
+For 967
+For 968
+bought  PENPEBS on  2016-07-15 00:00:00  at  174.0
+sold  PENPEBS on  2016-09-12 00:00:00  at  163.55
+For 969
+For 970
+For 971
+For 972
+For 973
+For 974
+For 975
+For 976
+For 977
+For 978
+For 979
+For 980
+For 981
+bought  PHOENIXLL on  2016-07-01 00:00:00  at  138.3
+sold  PHOENIXLL on  2016-11-15 00:00:00  at  149.4
+bought  PHOENIXLL on  2017-06-21 00:00:00  at  235.55
+sold  PHOENIXLL on  2017-08-11 00:00:00  at  197.0
+For 982
+For 983
+For 984
+For 985
+For 986
+For 987
+For 988
+For 989
+For 990
+For 991
+For 992
+For 993
+For 994
+For 995
+For 996
+For 997
+bought  PNCINFRA on  2016-06-01 00:00:00  at  564.0
+sold  PNCINFRA on  2016-08-12 00:00:00  at  111.2
+For 998
+For 999
+bought  POLARIS on  2017-07-13 00:00:00  at  243.85
+sold  POLARIS on  2017-09-22 00:00:00  at  221.1
+For 1000
+For 1001
+For 1002
+For 1003
+bought  POWERGRID on  2016-07-29 00:00:00  at  176.0
+sold  POWERGRID on  2017-03-02 00:00:00  at  189.75
+For 1004
+bought  POWERMECH on  2017-11-15 00:00:00  at  710.15
+For 1005
+For 1006
+For 1007
+For 1008
+For 1009
+For 1010
+For 1011
+For 1012
+For 1013
+For 1014
+For 1015
+For 1016
+For 1017
+bought  PRESSMN on  2017-01-30 00:00:00  at  58.3
+sold  PRESSMN on  2017-06-27 00:00:00  at  62.45
+For 1018
+For 1019
+For 1020
+For 1021
+For 1022
+For 1023
+For 1024
+For 1025
+For 1026
+For 1027
+For 1028
+bought  PTL on  2016-12-15 00:00:00  at  144.55
+sold  PTL on  2017-04-11 00:00:00  at  49.05
+For 1029
+bought  PUNJABCHEM on  2016-12-19 00:00:00  at  242.65
+For 1030
+For 1031
+For 1032
+For 1033
+For 1034
+For 1035
+For 1036
+For 1037
+For 1038
+For 1039
+bought  RAIN on  2017-10-25 00:00:00  at  251.1
+For 1040
+For 1041
+bought  RAIREKMOH on  2017-07-05 00:00:00  at  132.6
+For 1042
+For 1043
+For 1044
+For 1045
+For 1046
+For 1047
+For 1048
+For 1049
+For 1050
+bought  RAMCOCEM on  2016-07-12 00:00:00  at  583.3
+sold  RAMCOCEM on  2016-11-15 00:00:00  at  547.8
+bought  RAMCOCEM on  2017-01-31 00:00:00  at  702.75
+sold  RAMCOCEM on  2017-07-20 00:00:00  at  680.25
+For 1051
+For 1052
+For 1053
+For 1054
+For 1055
+For 1056
+bought  RANEHOLDIN on  2017-06-12 00:00:00  at  1383.75
+For 1057
+For 1058
+bought  RATNAMANI on  2017-01-02 00:00:00  at  678.55
+sold  RATNAMANI on  2017-05-22 00:00:00  at  716.3
+For 1059
+For 1060
+bought  RBL on  2016-07-18 00:00:00  at  449.2
+sold  RBL on  2016-11-15 00:00:00  at  868.0
+For 1061
+For 1062
+For 1063
+bought  RECLTD on  2017-03-21 00:00:00  at  167.75
+sold  RECLTD on  2017-06-22 00:00:00  at  181.7
+For 1064
+For 1065
+For 1066
+For 1067
+bought  RELAXO on  2017-04-06 00:00:00  at  491.65
+sold  RELAXO on  2017-05-18 00:00:00  at  455.65
+For 1068
+For 1069
+For 1070
+For 1071
+For 1072
+For 1073
+For 1074
+For 1075
+For 1076
+For 1077
+For 1078
+For 1079
+For 1080
+bought  REPCOHOME on  2016-06-14 00:00:00  at  726.5
+sold  REPCOHOME on  2016-10-10 00:00:00  at  782.45
+For 1081
+For 1082
+For 1083
+For 1084
+For 1085
+For 1086
+For 1087
+For 1088
+For 1089
+For 1090
+For 1091
+For 1092
+For 1093
+For 1094
+For 1095
+bought  ROSSELLIND on  2017-03-14 00:00:00  at  116.0
+sold  ROSSELLIND on  2017-05-12 00:00:00  at  112.65
+For 1096
+For 1097
+For 1098
+For 1099
+For 1100
+For 1101
+For 1102
+For 1103
+For 1104
+For 1105
+For 1106
+For 1107
+For 1108
+For 1109
+For 1110
+For 1111
+For 1112
+bought  SAGCEM on  2017-02-02 00:00:00  at  751.95
+sold  SAGCEM on  2017-06-27 00:00:00  at  785.2
+For 1113
+For 1114
+For 1115
+For 1116
+For 1117
+For 1118
+For 1119
+For 1120
+For 1121
+For 1122
+For 1123
+bought  SANGAMIND on  2017-02-02 00:00:00  at  296.8
+sold  SANGAMIND on  2017-02-15 00:00:00  at  265.35
+For 1124
+For 1125
+For 1126
+For 1127
+For 1128
+For 1129
+bought  SARDAEN on  2016-11-01 00:00:00  at  287.65
+sold  SARDAEN on  2016-11-22 00:00:00  at  189.7
+For 1130
+For 1131
+For 1132
+For 1133
+bought  SATHAISPAT on  2016-06-01 00:00:00  at  58.3
+sold  SATHAISPAT on  2016-08-12 00:00:00  at  64.75
+For 1134
+For 1135
+For 1136
+For 1137
+For 1138
+For 1139
+For 1140
+For 1141
+For 1142
+For 1143
+For 1144
+For 1145
+For 1146
+For 1147
+For 1148
+For 1149
+For 1150
+For 1151
+For 1152
+For 1153
+For 1154
+For 1155
+For 1156
+For 1157
+bought  SHARDACROP on  2016-06-02 00:00:00  at  361.7
+sold  SHARDACROP on  2016-11-17 00:00:00  at  383.05
+For 1158
+bought  SHARDAMOTR on  2017-03-06 00:00:00  at  1567.15
+sold  SHARDAMOTR on  2017-10-30 00:00:00  at  2517.4
+For 1159
+For 1160
+For 1161
+For 1162
+bought  SHILPI on  2016-06-13 00:00:00  at  128.45
+sold  SHILPI on  2017-04-24 00:00:00  at  211.0
+For 1163
+For 1164
+For 1165
+bought  SHIVTEX on  2016-10-17 00:00:00  at  219.4
+sold  SHIVTEX on  2017-05-22 00:00:00  at  301.05
+For 1166
+For 1167
+For 1168
+bought  SHREECEM on  2016-07-13 00:00:00  at  15516.15
+sold  SHREECEM on  2016-11-03 00:00:00  at  16122.15
+For 1169
+For 1170
+For 1171
+For 1172
+For 1173
+For 1174
+For 1175
+For 1176
+For 1177
+For 1178
+For 1179
+For 1180
+For 1181
+For 1182
+For 1183
+For 1184
+For 1185
+For 1186
+bought  SIYSIL on  2016-10-21 00:00:00  at  1526.9
+sold  SIYSIL on  2016-11-15 00:00:00  at  1228.5
+bought  SIYSIL on  2017-01-30 00:00:00  at  1427.95
+sold  SIYSIL on  2017-08-10 00:00:00  at  1984.65
+For 1187
+For 1188
+For 1189
+For 1190
+For 1191
+For 1192
+bought  SKSMICRO on  2016-06-17 00:00:00  at  675.1
+For 1193
+For 1194
+For 1195
+For 1196
+For 1197
+For 1198
+For 1199
+For 1200
+bought  SOMANYCERA on  2016-06-17 00:00:00  at  542.75
+sold  SOMANYCERA on  2016-11-11 00:00:00  at  561.95
+For 1201
+For 1202
+For 1203
+For 1204
+bought  SOTL on  2016-06-07 00:00:00  at  595.85
+sold  SOTL on  2017-08-10 00:00:00  at  1049.75
+bought  SOTL on  2017-10-03 00:00:00  at  1246.1
+sold  SOTL on  2017-10-13 00:00:00  at  1138.5
+For 1205
+For 1206
+For 1207
+For 1208
+For 1209
+For 1210
+For 1211
+For 1212
+For 1213
+For 1214
+For 1215
+For 1216
+For 1217
+For 1218
+For 1219
+For 1220
+For 1221
+For 1222
+For 1223
+For 1224
+For 1225
+For 1226
+For 1227
+For 1228
+For 1229
+For 1230
+For 1231
+For 1232
+For 1233
+For 1234
+For 1235
+For 1236
+For 1237
+For 1238
+For 1239
+bought  SUMMITSEC on  2016-07-08 00:00:00  at  366.75
+sold  SUMMITSEC on  2016-11-11 00:00:00  at  406.75
+For 1240
+bought  SUNCLAYLTD on  2016-08-03 00:00:00  at  2369.4
+For 1241
+For 1242
+For 1243
+bought  SUNDRMBRAK on  2016-06-15 00:00:00  at  289.2
+sold  SUNDRMBRAK on  2016-11-15 00:00:00  at  417.9
+For 1244
+For 1245
+For 1246
+For 1247
+For 1248
+bought  SUNTECK on  2017-05-04 00:00:00  at  471.5
+sold  SUNTECK on  2017-07-25 00:00:00  at  240.7
+For 1249
+bought  SUNTV on  2017-03-14 00:00:00  at  740.55
+sold  SUNTV on  2017-07-31 00:00:00  at  780.35
+For 1250
+For 1251
+For 1252
+For 1253
+For 1254
+bought  SUPREMEIND on  2016-08-25 00:00:00  at  975.0
+sold  SUPREMEIND on  2016-09-16 00:00:00  at  903.3
+For 1255
+For 1256
+For 1257
+For 1258
+For 1259
+For 1260
+For 1261
+For 1262
+For 1263
+bought  SURYAROSNI on  2016-09-22 00:00:00  at  230.85
+sold  SURYAROSNI on  2016-11-15 00:00:00  at  193.15
+For 1264
+For 1265
+For 1266
+For 1267
+For 1268
+For 1269
+For 1270
+For 1271
+For 1272
+For 1273
+For 1274
+For 1275
+For 1276
+For 1277
+For 1278
+For 1279
+For 1280
+For 1281
+For 1282
+For 1283
+bought  TARAPUR on  2016-08-01 00:00:00  at  6.9
+sold  TARAPUR on  2016-08-16 00:00:00  at  5.45
+For 1284
+bought  TARMAT on  2016-10-30 00:00:00  at  52.15
+sold  TARMAT on  2016-11-09 00:00:00  at  41.5
+For 1285
+For 1286
+For 1287
+For 1288
+For 1289
+For 1290
+For 1291
+bought  TATAMETALI on  2017-04-06 00:00:00  at  614.9
+sold  TATAMETALI on  2017-08-02 00:00:00  at  645.15
+For 1292
+For 1293
+For 1294
+For 1295
+For 1296
+bought  TATASTEEL on  2016-08-02 00:00:00  at  361.85
+sold  TATASTEEL on  2016-11-21 00:00:00  at  371.45
+For 1297
+For 1298
+For 1299
+bought  TCIDEVELOP on  2016-12-29 00:00:00  at  348.85
+sold  TCIDEVELOP on  2017-01-02 00:00:00  at  344.05
+bought  TCIDEVELOP on  2017-04-28 00:00:00  at  485.85
+sold  TCIDEVELOP on  2017-05-23 00:00:00  at  365.05
+For 1300
+For 1301
+bought  TCS on  2017-03-08 00:00:00  at  2512.2
+sold  TCS on  2017-04-12 00:00:00  at  2393.25
+For 1302
+For 1303
+For 1304
+For 1305
+For 1306
+bought  TECHNOFAB on  2017-06-27 00:00:00  at  224.35
+For 1307
+For 1308
+For 1309
+For 1310
+For 1311
+For 1312
+bought  THANGAMAYL on  2016-06-23 00:00:00  at  263.05
+sold  THANGAMAYL on  2016-09-23 00:00:00  at  257.3
+For 1313
+For 1314
+For 1315
+For 1316
+For 1317
+For 1318
+bought  TIIL on  2016-09-21 00:00:00  at  350.4
+sold  TIIL on  2016-11-15 00:00:00  at  333.4
+bought  TIIL on  2017-11-17 00:00:00  at  496.85
+For 1319
+For 1320
+For 1321
+For 1322
+For 1323
+For 1324
+bought  TIPSINDLTD on  2016-10-19 00:00:00  at  70.1
+sold  TIPSINDLTD on  2016-11-09 00:00:00  at  63.35
+For 1325
+bought  TIRUMALCHM on  2016-11-02 00:00:00  at  934.05
+sold  TIRUMALCHM on  2017-05-29 00:00:00  at  840.9
+For 1326
+bought  TITAN on  2017-03-09 00:00:00  at  442.25
+For 1327
+For 1328
+For 1329
+For 1330
+For 1331
+bought  TORNTPHARM on  2016-08-03 00:00:00  at  1463.55
+sold  TORNTPHARM on  2016-10-27 00:00:00  at  1425.75
+For 1332
+For 1333
+For 1334
+For 1335
+For 1336
+For 1337
+For 1338
+For 1339
+For 1340
+For 1341
+For 1342
+For 1343
+For 1344
+bought  TTKPRESTIG on  2016-11-10 00:00:00  at  5779.3
+sold  TTKPRESTIG on  2016-11-16 00:00:00  at  5141.2
+For 1345
+For 1346
+For 1347
+bought  TUBEINVEST on  2016-08-08 00:00:00  at  565.4
+sold  TUBEINVEST on  2016-11-21 00:00:00  at  570.2
+For 1348
+For 1349
+For 1350
+For 1351
+For 1352
+For 1353
+For 1354
+For 1355
+For 1356
+For 1357
+For 1358
+For 1359
+For 1360
+For 1361
+For 1362
+bought  ULTRACEMCO on  2016-08-01 00:00:00  at  3755.7
+sold  ULTRACEMCO on  2016-11-09 00:00:00  at  3765.75
+For 1363
+For 1364
+For 1365
+bought  UNIENTER on  2017-05-19 00:00:00  at  80.05
+sold  UNIENTER on  2017-11-13 00:00:00  at  91.6
+For 1366
+For 1367
+bought  UNIPLY on  2016-09-12 00:00:00  at  302.15
+sold  UNIPLY on  2016-11-15 00:00:00  at  217.15
+bought  UNIPLY on  2017-06-12 00:00:00  at  357.9
+sold  UNIPLY on  2017-07-17 00:00:00  at  268.95
+For 1368
+For 1369
+For 1370
+For 1371
+For 1372
+For 1373
+For 1374
+For 1375
+For 1376
+For 1377
+For 1378
+For 1379
+For 1380
+For 1381
+bought  V2RETAIL on  2016-10-13 00:00:00  at  131.0
+sold  V2RETAIL on  2016-11-18 00:00:00  at  103.45
+For 1382
+bought  VADILALIND on  2017-03-31 00:00:00  at  972.7
+sold  VADILALIND on  2017-06-01 00:00:00  at  798.95
+For 1383
+bought  VAIBHAVGBL on  2017-02-14 00:00:00  at  442.3
+For 1384
+For 1385
+For 1386
+For 1387
+For 1388
+For 1389
+For 1390
+bought  VEDL on  2016-06-17 00:00:00  at  122.55
+sold  VEDL on  2017-04-13 00:00:00  at  243.6
+For 1391
+bought  VENKEYS on  2017-02-23 00:00:00  at  868.15
+For 1392
+For 1393
+bought  VESUVIUS on  2016-11-03 00:00:00  at  1249.4
+sold  VESUVIUS on  2016-12-23 00:00:00  at  1015.15
+For 1394
+bought  VETO on  2016-06-29 00:00:00  at  134.7
+sold  VETO on  2016-08-26 00:00:00  at  124.05
+For 1395
+For 1396
+bought  VHL on  2017-06-01 00:00:00  at  3230.3
+sold  VHL on  2017-08-11 00:00:00  at  2994.35
+For 1397
+For 1398
+For 1399
+For 1400
+For 1401
+For 1402
+For 1403
+For 1404
+For 1405
+For 1406
+For 1407
+bought  VIPIND on  2017-04-05 00:00:00  at  215.45
+sold  VIPIND on  2017-07-18 00:00:00  at  178.75
+For 1408
+bought  VIPULLTD on  2016-08-11 00:00:00  at  63.25
+sold  VIPULLTD on  2016-11-11 00:00:00  at  74.0
+For 1409
+For 1410
+For 1411
+For 1412
+For 1413
+For 1414
+For 1415
+For 1416
+For 1417
+For 1418
+For 1419
+For 1420
+For 1421
+For 1422
+bought  VSSL on  2016-10-20 00:00:00  at  121.7
+sold  VSSL on  2016-11-21 00:00:00  at  81.85
+For 1423
+bought  VSTIND on  2017-01-23 00:00:00  at  2460.9
+sold  VSTIND on  2017-07-31 00:00:00  at  3100.5
+For 1424
+For 1425
+For 1426
+For 1427
+For 1428
+For 1429
+For 1430
+For 1431
+bought  WEIZMANIND on  2017-04-13 00:00:00  at  57.2
+sold  WEIZMANIND on  2017-06-27 00:00:00  at  38.95
+For 1432
+For 1433
+For 1434
+bought  WELINV on  2016-09-27 00:00:00  at  79.9
+sold  WELINV on  2017-06-08 00:00:00  at  88.25
+For 1435
+For 1436
+For 1437
+For 1438
+For 1439
+For 1440
+For 1441
+bought  WINDMACHIN on  2017-03-24 00:00:00  at  59.15
+sold  WINDMACHIN on  2017-05-24 00:00:00  at  56.2
+For 1442
+For 1443
+For 1444
+For 1445
+For 1446
+For 1447
+bought  WSTCSTPAPR on  2016-10-27 00:00:00  at  131.55
+sold  WSTCSTPAPR on  2017-05-24 00:00:00  at  172.25
+For 1448
+For 1449
+For 1450
+For 1451
+bought  YESBANK on  2016-07-15 00:00:00  at  1179.2
+sold  YESBANK on  2016-11-03 00:00:00  at  1208.8
+For 1452
+For 1453
+For 1454
+For 1455
+For 1456
+For 1457
+For 1458
+For 1459
+For 1460
+For 1461
+For 1462
+For 1463
+For 1464
+For 1465
+For 1466
+For 1467
+For 1468
+For 1469
+For 1470
+For 1471
+For 1472
+For 1473
+For 1474
+bought  PNEUMATIC on  2017-03-03 00:00:00  at  1141.05
+For 1475
+For 1476
+For 1477
+For 1478
+For 1479
+For 1480
+For 1481
+For 1482
+For 1483
+For 1484
+For 1485
+For 1486
+For 1487
+For 1488
+For 1489
+For 1490
+For 1491
+For 1492
+For 1493
+For 1494
+For 1495
+For 1496
+For 1497
+For 1498
+For 1499
+For 1500
+For 1501
+For 1502
+For 1503
+For 1504
+For 1505
+For 1506
+For 1507
+For 1508
+For 1509
+For 1510
+For 1511
+For 1512
+For 1513
+For 1514
+For 1515
+For 1516
+For 1517
+For 1518
+For 1519
+bought  THEMISMED on  2016-11-01 00:00:00  at  678.9
+sold  THEMISMED on  2016-11-16 00:00:00  at  573.65
+For 1520
+For 1521
+For 1522
+bought  TEAMLEASE on  2017-09-04 00:00:00  at  1502.25
+For 1523
+For 1524
+For 1525
+For 1526
+For 1527
+For 1528
+For 1529
+bought  BHAGERIA on  2016-10-05 00:00:00  at  677.55
+sold  BHAGERIA on  2016-10-26 00:00:00  at  373.05
+For 1530
+For 1531
+For 1532
+For 1533
+For 1534
+For 1535
+For 1536
+For 1537
+For 1538
+For 1539
+For 1540
+For 1541
+For 1542
+For 1543
+For 1544
+bought  HCG on  2016-08-25 00:00:00  at  217.1
+sold  HCG on  2016-12-27 00:00:00  at  232.1
+For 1545
+For 1546
+For 1547
+bought  INFIBEAM on  2017-08-09 00:00:00  at  1442.0
+sold  INFIBEAM on  2017-08-31 00:00:00  at  149.65
+For 1548
+For 1549
+For 1550
+For 1551
+For 1552
+For 1553
+For 1554
+For 1555
+For 1556
+For 1557
+For 1558
+bought  FEL on  2017-02-20 00:00:00  at  27.6
+For 1559
+For 1560
+For 1561
+For 1562
+For 1563
+For 1564
+For 1565
+For 1566
+For 1567
+For 1568
+For 1569
+For 1570
+For 1571
+For 1572
+For 1573
+For 1574
+For 1575
+For 1576
+For 1577
+For 1578
+For 1579
+For 1580
+For 1581
+For 1582
+For 1583
+For 1584
+For 1585
+For 1586
+For 1587
+For 1588
+For 1589
+bought  QUESS on  2017-06-06 00:00:00  at  902.4
+sold  QUESS on  2017-08-23 00:00:00  at  810.25
+For 1590
+For 1591
+For 1592
+bought  LTI on  2017-06-09 00:00:00  at  800.35
+sold  LTI on  2017-08-10 00:00:00  at  746.35
+For 1593
+For 1594
+For 1595
+For 1596
+For 1597
+For 1598
+For 1599
+For 1600
+For 1601
+For 1602
+For 1603
+For 1604
+For 1605
+For 1606
+For 1607
+For 1608
+For 1609
+For 1610
+For 1611
+For 1612
+For 1613
+For 1614
+For 1615
+For 1616
+bought  FRETAIL on  2017-02-08 00:00:00  at  216.1
+sold  FRETAIL on  2017-11-13 00:00:00  at  474.4
+For 1617
+For 1618
+For 1619
+For 1620
+For 1621
+For 1622
+bought  LTTS on  2017-11-09 00:00:00  at  904.0
+For 1623
+For 1624
+For 1625
+For 1626
+For 1627
+For 1628
+For 1629
+For 1630
+For 1631
+For 1632
+For 1633
+bought  PNBHOUSING on  2017-04-17 00:00:00  at  1260.5
+sold  PNBHOUSING on  2017-09-27 00:00:00  at  1412.05
+For 1634
+bought  VBL on  2017-04-17 00:00:00  at  477.75
+sold  VBL on  2017-09-27 00:00:00  at  508.3
+For 1635
+For 1636
+For 1637
+For 1638
+bought  GROBTEA on  2017-10-10 00:00:00  at  660.85
+For 1639
+For 1640
+For 1641
+For 1642
+bought  SASTASUNDR on  2017-04-19 00:00:00  at  113.0
+sold  SASTASUNDR on  2017-08-23 00:00:00  at  82.95
+For 1643
+For 1644
+For 1645
+For 1646
+For 1647
+For 1648
+For 1649
+For 1650
+For 1651
+For 1652
+For 1653
+For 1654
+For 1655
+For 1656
+For 1657
+For 1658
+For 1659
+For 1660
+For 1661
+For 1662
+For 1663
+For 1664
+For 1665
+For 1666
+For 1667
+For 1668
+For 1669
+For 1670
+For 1671
+For 1672
+For 1673
+For 1674
+For 1675
+For 1676
+For 1677
+For 1678
+For 1679
+For 1680
+bought  PODDARHOUS on  2017-09-06 00:00:00  at  1315.1
+sold  PODDARHOUS on  2017-11-27 00:00:00  at  1213.0
+For 1681
+For 1682
+For 1683
+For 1684
+For 1685
+For 1686
+For 1687
+For 1688
+For 1689
+For 1690
+For 1691
+For 1692
+For 1693
+For 1694
+For 1695
+For 1696
+For 1697
+For 1698
+For 1699
+For 1700
+For 1701
+For 1702
+For 1703
+For 1704
+For 1705
+For 1706
+For 1707
+For 1708
+For 1709
+For 1710
+For 1711
+For 1712
+For 1713
+For 1714
+For 1715
+For 1716
+For 1717
+For 1718
+For 1719
+For 1720
+For 1721
+For 1722
+For 1723
+For 1724
+For 1725
+For 1726
+For 1727
+For 1728
+For 1729
+For 1730
+For 1731
+For 1732
+For 1733
+For 1734
+For 1735
+For 1736
+For 1737
+For 1738
+For 1739
+For 1740
+For 1741
+For 1742
+For 1743
+For 1744
+For 1745
+For 1746
+For 1747
+For 1748
+For 1749
+For 1750
+For 1751
+For 1752
+For 1753
+For 1754
+bought  BANKNIFTY on  2017-08-08 00:00:00  at  24693.4
+For 1755
+For 1756
+bought  FTSE100 on  2016-06-01 00:00:00  at  7242.0
+sold  FTSE100 on  2016-06-20 00:00:00  at  6316.0
+D:\code\workspace\NSEOIDownloader\pyeoddownloader\momentumbacktest.py:118: RuntimeWarning: divide by zero encountered in double_scalars
+  updownratio = greendays/reddays
+bought  FTSE100 on  2017-01-02 00:00:00  at  7142.0
+sold  FTSE100 on  2017-02-20 00:00:00  at  6728.0
+bought  FTSE100 on  2017-04-05 00:00:00  at  7326.0
+sold  FTSE100 on  2017-05-22 00:00:00  at  6411.0
+bought  FTSE100 on  2017-07-07 00:00:00  at  7233.0
+sold  FTSE100 on  2017-08-21 00:00:00  at  7152.0
+For 1757
+For 1758
+bought  NIFTYINFRA on  2016-06-29 00:00:00  at  2685.0
+sold  NIFTYINFRA on  2016-11-25 00:00:00  at  2828.7
+bought  NIFTYINFRA on  2017-04-20 00:00:00  at  2940.9
+sold  NIFTYINFRA on  2017-12-01 00:00:00  at  3261.55
+For 1759
+For 1760
+bought  NIFTYMID50 on  2016-06-16 00:00:00  at  3370.0
+sold  NIFTYMID50 on  2017-01-27 00:00:00  at  3622.15
+bought  NIFTYMID50 on  2017-04-20 00:00:00  at  3981.7
+For 1761
+bought  NIFTYPSE on  2016-09-14 00:00:00  at  3225.75
+sold  NIFTYPSE on  2017-09-01 00:00:00  at  3825.45
+For 1762
+For 1763
+bought  NIFTYCPSE on  2017-08-24 00:00:00  at  2635.2
+sold  NIFTYCPSE on  2017-09-01 00:00:00  at  2371.45
+310.03932622856473
+[Finished in 311.7s]

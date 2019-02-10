@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Code Handbook</title>
+
+
+    <link href="static/bootstrap.min.css" rel="stylesheet">
+
+
+    <link href="static/css/jumbotron-narrow.css" rel="stylesheet">
+
+    <script src="static/angular.min.js"></script>
+
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="header clearfix">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    <li role="presentation" class="active"><a href="#" data-toggle="modal">Add</a></li>
+                </ul>
+            </nav>
+            <h3 class="text-muted">Remote Test Exec Manager</h3>
+        </div>
+
+        <div class="bs-example" data-example-id="panel-without-body-with-table">
+            <div class="panel panel-default">
+                <div class="panel-heading">Machine list</div>
+                   <table class="table">
+    
+        <tr>
+            <th>SYMBOL</th>
+            <th> Time </th>
+            <th> Close </th>
+            <th> Volume </th>
+            <th> Volume Breakout </th>
+            <th> Lower Low </th>
+            <th> Higher High </th>
+            <th> Days Low</th>
+            <th> Days High</th>
+        <th> Super Signal</th>
+        <th> CCI34</th>
+        <th> SuperTrend</th>
+        <th> Message</th>
+        </tr>
+    
+    {% for row_index in range(data.index|count) %}
+    <tr>
+      <td>{{ data.index[row_index]}}</td>   
+      <td>{{ data['time'][row_index]}}</td>
+      <td>{{ data['close'][row_index]}}</td>
+      <td>{{ data['volume'][row_index]}}</td>
+
+      <td>  {% if data['volsig'][row_index] == 1 %} 
+            <img src="/static/green.jpg"/>
+           {% endif %}
+      </td>
+      <td>  {% if data['pallsig'][row_index] == 1 %} 
+            <img src="/static/green.jpg"/>
+           {% endif %}
+      </td>
+      <td>  {% if data['pahhsig'][row_index] == 1 %} 
+            <img src="/static/green.jpg"/>
+           {% endif %}
+      </td>
+      <td>  {% if data['daylowsig'][row_index] == 1 %} 
+            <img src="/static/green.jpg"/>
+           {% endif %}
+      </td>
+      <td>  {% if data['dayhighsig'][row_index] == 1 %} 
+            <img src="/static/green.jpg"/>
+           {% endif %}
+      </td>
+      <td>  {% if data['supersig'][row_index] == 1 %} 
+          <img src="/static/green.jpg"/>
+       {% endif %}
+      </td>
+      <td>{{ data['cci34'][row_index]}}</td>
+      <td>{{ data['SuperTrend'][row_index]}}</td>
+      <td>{{ data['msg'][row_index]}}</td>
+    </tr>
+    {% endfor %}
+    </table>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <script src="static/js/jquery.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
